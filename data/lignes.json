@@ -1,0 +1,186 @@
+[
+  {
+    "line_id": 1,
+    "line_nom": "PAR-MÉTRO-1",
+    "mode": "métro",
+    "operateur": "RATP",
+    "couleur": "Bleu",
+    "actif": true,
+    "created_at": "2020-07-15T00:00:00"
+  },
+  {
+    "line_id": 2,
+    "line_nom": "PAR-BUS-2",
+    "mode": "bus",
+    "operateur": "RATP",
+    "couleur": "Bleu",
+    "actif": true,
+    "created_at": "2021-02-20T00:00:00"
+  },
+  {
+    "line_id": 3,
+    "line_nom": "LYO-BUS-1",
+    "mode": "bus",
+    "operateur": null,
+    "couleur": "Rouge",
+    "actif": true,
+    "created_at": "2020-08-11T00:00:00"
+  },
+  {
+    "line_id": 4,
+    "line_nom": "LYO-TRAM-2",
+    "mode": "tram",
+    "operateur": "TCL",
+    "couleur": "Vert",
+    "actif": true,
+    "created_at": "2020-07-14T00:00:00"
+  },
+  {
+    "line_id": 5,
+    "line_nom": "MAR-BUS-1",
+    "mode": "bus",
+    "operateur": "RTM",
+    "couleur": "Rouge",
+    "actif": "yes",
+    "created_at": "2020-11-06T00:00:00"
+  },
+  {
+    "line_id": 5,
+    "line_nom": "MAR-BUS-2",
+    "mode": "bus",
+    "operateur": "RTM",
+    "couleur": "Rouge",
+    "actif": true,
+    "created_at": "2019-01-24T00:00:00"
+  },
+  {
+    "line_id": 7,
+    "line_nom": "TOU-TRAM-1",
+    "mode": "tram",
+    "operateur": "Tisséo",
+    "couleur": "Violet",
+    "actif": true,
+    "created_at": "2019-01-14T00:00:00",
+    "metadata": {
+      "source": "gtfs",
+      "version": "v1.9"
+    }
+  },
+  {
+    "line_id": 8,
+    "line_nom": "TOU-BUS-2",
+    "mode": "Metro",
+    "operateur": "Tisséo",
+    "couleur": "Violet",
+    "actif": true,
+    "created_at": "2020-11-14T00:00:00"
+  },
+  {
+    "line_id": 9,
+    "line_nom": "BOR-BUS-1",
+    "mode": "bus",
+    "operateur": "TBM",
+    "couleur": "Rouge",
+    "actif": true,
+    "created_at": "2020-09-01T00:00:00"
+  },
+  {
+    "line_id": 10,
+    "line_nom": "BOR-MÉTRO-2",
+    "mode": "métro",
+    "operateur": "TBM",
+    "couleur": "Violet",
+    "actif": true,
+    "created_at": "2019-01-17T00:00:00"
+  },
+  {
+    "line_id": 11,
+    "line_nom": "LIL-BUS-1",
+    "mode": "bus",
+    "operateur": "Ilévia",
+    "couleur": "Rouge",
+    "actif": true,
+    "created_at": "2018-07-12T00:00:00"
+  },
+  {
+    "line_id": 12,
+    "line_nom": "LIL-MÉTRO-2",
+    "mode": "métro",
+    "operateur": "Ilévia",
+    "couleur": "Vert",
+    "actif": true,
+    "created_at": "2020-07-03T00:00:00"
+  },
+  {
+    "line_id": 13,
+    "line_nom": "NAN-TRAM-1",
+    "mode": "tram",
+    "operateur": "TAN",
+    "couleur": "Bleu",
+    "actif": true,
+    "created_at": "2019-09-14T00:00:00"
+  },
+  {
+    "line_id": 14,
+    "line_nom": "NAN-BUS-2",
+    "mode": "bus",
+    "operateur": "TAN",
+    "couleur": "Jaune",
+    "actif": true,
+    "created_at": "2018-10-18T00:00:00"
+  },
+  {
+    "line_id": 15,
+    "line_nom": "STR-BUS-1",
+    "mode": "bus",
+    "operateur": "CTS",
+    "couleur": "Jaune",
+    "actif": true,
+    "created_at": "2018-07-05T00:00:00"
+  },
+  {
+    "line_id": 16,
+    "line_nom": "STR-TRAM-2",
+    "mode": "tram",
+    "operateur": "CTS",
+    "couleur": "Violet",
+    "actif": true,
+    "created_at": "2021-01-08T00:00:00"
+  },
+  {
+    "line_id": 17,
+    "line_nom": "NIC-TRAM-1",
+    "mode": "tram",
+    "operateur": "Lignes d'Azur",
+    "couleur": "Jaune",
+    "actif": true,
+    "created_at": "2018-03-27T00:00:00"
+  },
+  {
+    "line_id": 18,
+    "line_nom": "NIC-MÉTRO-2",
+    "mode": "métro",
+    "operateur": "Lignes d'Azur",
+    "couleur": "Jaune",
+    "actif": true,
+    "created_at": "2020-03-22T00:00:00"
+  },
+  {
+    "line_id": 19,
+    "line_nom": "MON-BUS-1",
+    "mode": "bus",
+    "operateur": "TaM",
+    "couleur": "Jaune",
+    "actif": true,
+    "created_at": "2020-07-16T00:00:00"
+  },
+  {
+    "line_id": 20,
+    "line_nom": "MON-TRAM-2",
+    "mode": "tram",
+    "operateur": "TaM",
+    "couleur": "Rouge",
+    "actif": true,
+    "created_at": "2018-11-19T00:00:00"
+  }
+]

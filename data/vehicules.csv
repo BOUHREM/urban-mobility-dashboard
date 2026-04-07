@@ -1,0 +1,901 @@
+vehicle_id,mode,fuel_type,year_model,operateur,line_id,capacity,eco_label
+V00001,VOITURE,diesel,2017,,,4.0,N/A
+V00002 ,bus,hybrid,2008,TaM,9999,41.0,EURO 5
+V00003,métro,electric,2018,Tisséo,2,200.0,N/A
+V00004,voiture,electric,2019,,,4.0,N/A
+V00005,vélo,electric,2010,,,1.0,Zéro émission
+V00006,bus,diesel,2015,Lignes d'Azur,13,84.0,Zéro émission
+V00007,vélo,human,2018,,,1.0,EURO 5
+V00008,bus,electric,2008,Ilévia,3,117.0,N/A
+V00009,bus,diesel,2018,TBM,5,60.0,Zéro émission
+V00010,voiture,electric,2017,,,4.0,EURO 6
+V00011,bus,hybrid,2021,RATP,,17.0,Zéro émission
+V00012,voiture,diesel,2019,,,4.0,N/A
+V00013,tram,electric,2015,TaM,7,120.0,N/A
+V00014,bus,diesel,2015,TaM,12,72.0,N/A
+V00015,voiture,electric,2012,,,4.0,N/A
+V00016,vélo,electric,2018,,,1.0,N/A
+V00017,vélo,electric,2018,,,1.0,N/A
+V00018,voiture,diesel,2021,,,4.0,EURO 6
+V00019,vélo,human,2018,,,1.0,EURO 6
+V00020,voiture,electric,2021,,,4.0,EURO 5
+V00021,bus,electric,2008,CTS,15,46.0,EURO 6
+V00022,bus,diesel,2019,TBM,,44.0,EURO 6
+V00023,voiture,diesel,2020,,,4.0,Euro6
+V00024,voiture,diesel,2019,,,4.0,N/A
+V00025,bus,electric,2022,RTM,13,52.0,N/A
+V00026,voiture,electric,2015,,,4.0,Euro6
+V00027,voiture,essence,2020,,,4.0,EURO 6
+V00028,voiture,diesel,2022,,,4.0,EURO 6
+V00029,bus,diesel,2017,TCL,,85.0,N/A
+V00030,bus,diesel,2015,Ilévia,15,26.0,Zéro émission
+V00031,bus,hybrid,2019,CTS,,55.0,Euro6
+V00032,tram,electric,2018,Tisséo,15,120.0,N/A
+V00033,vélo,human,2015,,,1.0,EURO 5
+V00034,vélo,electric,2012,,,1.0,N/A
+V00035,voiture,electric,2010,,,4.0,Euro6
+V00036,métro,electric,2018,TAN,,200.0,EURO 6
+V00037,voiture,diesel,2015,,,4.0,EURO 6
+V00038,bus,diesel,2021,RTM,4,46.0,Euro6
+V00039 ,métro,electric,2019,TaM,8,200.0,Zéro émission
+V00040,bus,electric,2022,Ilévia,,60.0,N/A
+V00041,vélo,electric,2021,,,1.0,N/A
+V00042,vélo,electric,2010,,,1.0,N/A
+V00043,bus,hybrid,2017,TCL,14,44.0,EURO 6
+V00044,voiture,diesel,2020,,,4.0,EURO 6
+V00045,vélo,human,2020,,,1.0,Zéro émission
+V00046,voiture,diesel,2017,,,4.0,EURO 6
+V00047,bus,electric,2015,CTS,,54.0,EURO 6
+V00048,vélo,human,2021,,,1.0,Zéro émission
+V00049,métro,electric,2019,TBM,12,200.0,Zéro émission
+V00050,bus,hybrid,2019,CTS,2,66.0,Zéro émission
+V00051,vélo,electric,2017,,,1.0,N/A
+V00052,vélo,human,2019,,,1.0,N/A
+V00053,bus,diesel,2017,Lignes d'Azur,12,61.0,EURO 5
+V00054,tram,electric,2010,TBM,13,120.0,Euro6
+V00055,tram,electric,2017,TaM,9,120.0,EURO 5
+V00056,voiture,diesel,2010,,,4.0,EURO 6
+V00057,voiture,diesel,2017,,,4.0,EURO 5
+V00058,voiture,essence,2010,,,,EURO 6
+V00059 ,tram,electric,2019,Ilévia,1,120.0,Euro6
+V00060,bus,hybrid,2019,Lignes d'Azur,5,65.0,N/A
+V00061 ,voiture,diesel,2012,,,4.0,Euro6
+V00062,tram,electric,2019,Tisséo,15,120.0,N/A
+V00063,vélo,human,2012,,,1.0,EURO 5
+V00064,voiture,electric,2020,,,4.0,Zéro émission
+V00065,métro,electric,2015,TCL,,200.0,Euro6
+V00066,vélo,human,2008,,,1.0,Zéro émission
+V00067,bus,diesel,2015,TBM,11,55.0,EURO 5
+V00068,bus,diesel,2020,Ilévia,3,85.0,N/A
+V00069,voiture,diesel,2021,,,4.0,EURO 5
+V00070,tram,electric,2008,TBM,5,120.0,N/A
+V00071,vélo,electric,2012,,,1.0,Euro6
+V00072,métro,electric,2020,TBM,,200.0,Euro6
+V00073,voiture,essence,2012,,,4.0,EURO 5
+V00074,vélo,Electric ,2018,,,1.0,N/A
+V00075,vélo,electric,2018,,,1.0,EURO 6
+V00076,bus,hybrid,2019,TBM,,67.0,N/A
+V00077,métro,electric,2018,Lignes d'Azur,15,200.0,EURO 5
+V00078,bus,diesel,2019,Lignes d'Azur,,32.0,N/A
+V00079,voiture,essence,2015,,,4.0,N/A
+V00080,voiture,essence,2010,,,4.0,N/A
+V00081,bus,hybrid,2008,TCL,1,51.0,N/A
+V00082,bus,diesel,2010,RTM,3,63.0,N/A
+V00083,vélo,electric,2008,,,,EURO 5
+V00084,bus,electric,2010,RTM,,48.0,EURO 5
+V00085,tram,electric,2020,TBM,14,120.0,EURO 5
+V00086,tram,electric,2015,RATP,5,120.0,N/A
+V00087,voiture,diesel,2020,,,4.0,Zéro émission
+V00088,bus,diesel,2018,CTS,11,47.0,Zéro émission
+V00089,voiture,electric,2022,,,4.0,EURO 5
+V00090,vélo,electric,2008,,,1.0,Euro6
+V00091,voiture,diesel,2017,,,4.0,EURO 5
+V00092,voiture,essence,2010,,,4.0,EURO 5
+V00093,BUS,hybrid,2020,Ilévia,5,52.0,N/A
+V00094,bus,diesel,2022,TBM,11,37.0,N/A
+V00095,voiture,electric,2017,,,4.0,Euro6
+V00096,vélo,electric,2010,,,1.0,N/A
+V00097,vélo,human,2012,,,1.0,N/A
+V00098,voiture,essence,2008,,,,Euro6
+V00099,bus,diesel,2020,TBM,8,34.0,EURO 6
+V00100,bus,diesel,2019,Ilévia,9,70.0,Euro6
+V00101,voiture,essence,2018,,,4.0,N/A
+V00102,bus,diesel,2021,Lignes d'Azur,,69.0,N/A
+V00103,vélo,human,2018,,,1.0,EURO 5
+V00104,voiture,Electric ,2022,,,4.0,Zéro émission
+V00105,bus,Hybrid ,2015,CTS,8,72.0,Euro6
+V00106,voiture,electric,2012,,,,EURO 5
+V00107,voiture,essence,2012,,,4.0,EURO 6
+V00108,bus,diesel,2010,Lignes d'Azur,8,56.0,N/A
+V00109,vélo,electric,2008,,,1.0,EURO 5
+V00110,bus,electric,2015,Lignes d'Azur,5,80.0,N/A
+V00111,bus,diesel,2019,RATP,,47.0,EURO 5
+V00112,bus,electric,2015,TCL,11,116.0,N/A
+V00113,tram,electric,2010,CTS,3,120.0,N/A
+V00114,voiture,electric,2008,,,4.0,Euro6
+V00115,voiture,diesel,2019,,,4.0,N/A
+V00116,voiture,electric,2019,,,4.0,EURO 6
+V00117,bus,diesel,2019,RATP,15,57.0,EURO 5
+V00118,tram,electric,2015,CTS,10,120.0,EURO 5
+V00119,bus,diesel,2021,TCL,11,61.0,Euro6
+V00120,bus,electric,2010,RATP,,66.0,EURO 5
+V00121,tram,electric,2010,RATP,3,120.0,EURO 5
+V00122,voiture,essence,2019,,,,EURO 6
+V00123,voiture,essence,2008,,,4.0,EURO 5
+V00124,voiture,diesel,2012,,,4.0,Euro6
+V00125,voiture,diesel,2022,,,,EURO 6
+V00126,bus,diesel,2008,RTM,12,93.0,EURO 6
+V00127,bus,diesel,2012,RTM,14,35.0,EURO 5
+V00128,tram,electric,2012,Tisséo,2,120.0,N/A
+V00129,métro,electric,2008,RATP,9,200.0,Euro6
+V00130,voiture,essence,2021,,,4.0,EURO 5
+V00131,bus,hybrid,2018,TBM,3,77.0,N/A
+V00132,métro,electric,2020,RATP,1,,Zéro émission
+V00133,tram,electric,2017,RTM,,120.0,EURO 6
+V00134,métro,electric,2022,Ilévia,8,200.0,N/A
+V00135,voiture,essence,2019,,,4.0,EURO 5
+V00136 ,tram,electric,2022,RATP,,120.0,EURO 6
+V00137,voiture,electric,2008,,,4.0,Zéro émission
+V00138,voiture,diesel,2019,,,4.0,EURO 6
+V00139,métro,electric,2015,Tisséo,4,200.0,EURO 6
+V00140,voiture,essence,2019,,,4.0,Euro6
+V00141,bus,electric,2008,TAN,7,46.0,EURO 6
+V00142,métro,electric,2020,TBM,,200.0,Zéro émission
+V00143,bus,hybrid,2018,RTM,1,26.0,Zéro émission
+V00144,bus,hybrid,2019,Lignes d'Azur,1,69.0,Euro6
+V00145,bus,hybrid,2017,Tisséo,,36.0,Euro6
+V00146,voiture,electric,2022,,,4.0,Zéro émission
+V00147,vélo,electric,2008,,,1.0,EURO 5
+V00148,tram,electric,2017,Tisséo,,120.0,EURO 6
+V00149,vélo,human,2021,,,1.0,EURO 5
+V00150,VOITURE,diesel,2015,,,4.0,EURO 6
+V00151,bus,diesel,2018,CTS,9,71.0,Zéro émission
+V00152,bus,hybrid,2008,TaM,15,59.0,Euro6
+V00153,vélo,human,2018,,,1.0,EURO 5
+V00154,voiture,electric,2015,,,4.0,EURO 5
+V00155,bus,diesel,2010,RATP,4,63.0,EURO 5
+V00156,voiture,diesel,2017,,,4.0,EURO 6
+V00157,vélo,electric,2021,,,1.0,EURO 5
+V00158,vélo,electric,2012,,,1.0,N/A
+V00159,voiture,diesel,2010,,,4.0,EURO 6
+V00160,métro,electric,2010,RATP,,200.0,Zéro émission
+V00161,voiture,electric,2017,,,4.0,Zéro émission
+V00162,vélo,human,2021,,,1.0,Zéro émission
+V00163,vélo,electric,2008,,,1.0,Euro6
+V00164,bus,diesel,2010,Lignes d'Azur,3,32.0,EURO 5
+V00165,vélo,Human ,2019,,,1.0,EURO 5
+V00166,voiture,essence,2021,,,4.0,EURO 5
+V00167,métro,electric,2008,TaM,14,200.0,EURO 6
+V00168 ,voiture,diesel,2017,,,4.0,N/A
+V00169,bus,hybrid,2008,RATP,,64.0,EURO 6
+V00170,bus,hybrid,2015,TCL,5,98.0,Euro6
+V00171,métro,electric,2012,TAN,,200.0,Zéro émission
+V00172,bus,electric,2012,TCL,14,95.0,Euro6
+V00173,vélo,electric,2018,,,1.0,Zéro émission
+V00174,bus,hybrid,2018,CTS,8,42.0,EURO 5
+V00175,vélo,electric,2008,,,1.0,N/A
+V00176 ,vélo,human,2017,,,1.0,EURO 5
+V00177,voiture,essence,2010,,,4.0,Zéro émission
+V00178,voiture,diesel,2010,,9999,4.0,Euro6
+V00179,métro,electric,2012,TCL,14,200.0,Zéro émission
+V00180,vélo,electric,2008,,,1.0,N/A
+V00181,vélo,human,2018,,,1.0,Zéro émission
+V00182,vélo,electric,2015,,,1.0,Euro6
+V00183,voiture,electric,2021,,,4.0,EURO 6
+V00184,bus,diesel,2018,TBM,15,59.0,EURO 6
+V00185,voiture,essence,2022,,,4.0,N/A
+V00186,métro,electric,2019,TaM,5,200.0,Euro6
+V00187,tram,electric,2010,Tisséo,5,120.0,N/A
+V00188,bus,electric,2010,TBM,13,18.0,EURO 5
+V00189,bus,diesel,2019,TBM,4,62.0,Euro6
+V00190,bus,hybrid,2010,Ilévia,10,51.0,N/A
+V00191,bus,electric,2010,TCL,,48.0,N/A
+V00192,tram,electric,2019,Tisséo,10,120.0,Euro6
+V00193,voiture,electric,2012,,,4.0,Zéro émission
+V00194,vélo,human,2019,,,1.0,EURO 5
+V00195,bus,electric,2018,RTM,8,67.0,N/A
+V00196,voiture,diesel,2010,,,4.0,N/A
+V00197,tram,electric,2015,TaM,15,120.0,EURO 5
+V00198,voiture,diesel,2022,,,4.0,Zéro émission
+V00199,vélo,electric,2018,,,,N/A
+V00200,métro,electric,2012,Lignes d'Azur,9,200.0,EURO 5
+V00201,bus,diesel,2017,TBM,5,104.0,EURO 6
+V00202,vélo,human,2008,,,1.0,N/A
+V00203,bus,electric,2010,Ilévia,9,47.0,EURO 6
+V00204,bus,hybrid,2008,Tisséo,,72.0,EURO 6
+V00205,bus,diesel,2008,TAN,15,47.0,Euro6
+V00206,vélo,electric,2020,,,1.0,EURO 6
+V00207,bus,hybrid,2022,TBM,,90.0,Euro6
+V00208,voiture,diesel,2019,,,4.0,N/A
+V00209,bus,electric,2017,Ilévia,3,80.0,Euro6
+V00210,bus,hybrid,2021,CTS,,80.0,EURO 5
+V00211,tram,electric,2015,RATP,8,120.0,EURO 5
+V00212,bus,hybrid,2010,Tisséo,,58.0,EURO 6
+V00213,voiture,electric,2015,,,,Euro6
+V00214,bus,hybrid,2022,Ilévia,,14.0,EURO 6
+V00215,voiture,electric,2012,,,,EURO 5
+V00216,vélo,electric,2021,,,1.0,EURO 6
+V00217,VOITURE,diesel,2018,,,4.0,EURO 6
+V00218,voiture,diesel,2022,,,4.0,Zéro émission
+V00219,bus,hybrid,2015,RTM,,84.0,Euro6
+V00220,bus,diesel,2017,TCL,7,59.0,EURO 5
+V00221,vélo,human,2022,,,1.0,EURO 6
+V00222,voiture,electric,2022,,,4.0,Euro6
+V00223,voiture,Electric ,2021,,,4.0,N/A
+V00224,voiture,essence,2021,,,4.0,N/A
+V00225,bus,diesel,2012,Lignes d'Azur,11,42.0,Euro6
+V00226,voiture,diesel,2008,,,4.0,N/A
+V00227,voiture,diesel,2017,,,4.0,Zéro émission
+V00228,bus,electric,2019,Ilévia,9,55.0,Euro6
+V00229,voiture,electric,2020,,,4.0,N/A
+V00230,voiture,essence,2008,,,4.0,N/A
+V00231,bus,electric,2019,Tisséo,,72.0,Euro6
+V00232,voiture,essence,2019,,,4.0,Euro6
+V00233,voiture,diesel,2018,,,4.0,EURO 5
+V00234,vélo,electric,2017,,,1.0,N/A
+V00235,tram,electric,2022,TCL,8,120.0,Zéro émission
+V00236,bus,electric,2018,Tisséo,9,76.0,Zéro émission
+V00237,bus,hybrid,2019,TaM,3,22.0,N/A
+V00238,bus,hybrid,2021,TaM,5,84.0,Zéro émission
+V00239,vélo,electric,2012,,,1.0,Zéro émission
+V00240,bus,diesel,2019,Tisséo,12,70.0,N/A
+V00241,bus,electric,2010,TBM,13,1.0,N/A
+V00242 ,métro,electric,2022,TCL,,200.0,EURO 6
+V00243,bus,electric,2022,Lignes d'Azur,15,65.0,EURO 6
+V00244,tram,electric,2015,TaM,12,120.0,EURO 5
+V00245,tram,electric,2020,TBM,9,120.0,EURO 6
+V00246,vélo,electric,2015,,,1.0,Zéro émission
+V00247,voiture,diesel,2018,,,4.0,EURO 6
+V00248,voiture,electric,2019,,,4.0,N/A
+V00249,bus,electric,2008,TBM,,51.0,Zéro émission
+V00250,bus,electric,2012,TCL,8,42.0,Zéro émission
+V00251,métro,electric,2022,CTS,10,200.0,EURO 5
+V00252,tram,electric,2020,Ilévia,,120.0,N/A
+V00253,voiture,electric,2020,,,4.0,N/A
+V00254,voiture,diesel,2020,,,4.0,N/A
+V00255,vélo,electric,2021,,,1.0,EURO 5
+V00256,métro,electric,2008,Ilévia,,200.0,N/A
+V00257,bus,electric,2010,RTM,13,93.0,EURO 6
+V00258,métro,Electric ,2020,Lignes d'Azur,2,200.0,Zéro émission
+V00259,vélo,human,2015,,,1.0,Euro6
+V00260,bus,Diesel ,2008,Lignes d'Azur,8,54.0,N/A
+V00261,métro,electric,2020,TAN,5,200.0,EURO 6
+V00262,voiture,electric,2020,,,4.0,Euro6
+V00263,vélo,human,2015,,,1.0,EURO 5
+V00264,voiture,essence,2019,,,4.0,EURO 5
+V00265,bus,diesel,2020,Tisséo,8,26.0,N/A
+V00266,tram,electric,2015,Lignes d'Azur,10,120.0,Euro6
+V00267,bus,hybrid,2021,TCL,,124.0,Euro6
+V00268,vélo,electric,2019,,,1.0,EURO 5
+V00269,vélo,electric,2012,,,1.0,Zéro émission
+V00270,voiture,essence,2022,,,4.0,Zéro émission
+V00271,voiture,essence,2021,,,4.0,N/A
+V00272,métro,Electric ,2019,CTS,,200.0,EURO 6
+V00273,voiture,diesel,2008,,,4.0,EURO 6
+V00274,métro,electric,2019,RATP,3,200.0,EURO 5
+V00275,tram,electric,2010,Tisséo,,120.0,N/A
+V00276,vélo,electric,2015,,,1.0,EURO 5
+V00277,bus,electric,2008,RTM,9,70.0,EURO 5
+V00278,voiture,essence,2008,,,4.0,Euro6
+V00279,voiture,essence,2022,,,,N/A
+V00280,vélo,human,2019,,,1.0,Euro6
+V00281,bus,electric,2010,RATP,10,82.0,Zéro émission
+V00282,bus,electric,2008,TBM,10,87.0,Zéro émission
+V00283,tram,electric,2021,TaM,8,120.0,Zéro émission
+V00284,bus,diesel,2019,Ilévia,,64.0,Zéro émission
+V00285,bus,diesel,2021,Ilévia,13,47.0,N/A
+V00286,vélo,electric,2020,,,1.0,Euro6
+V00287,voiture,electric,2008,,,4.0,Zéro émission
+V00288,bus,electric,2015,TCL,10,38.0,Zéro émission
+V00289,tram,electric,2022,CTS,5,120.0,Zéro émission
+V00290,bus,electric,2015,Ilévia,10,67.0,EURO 5
+V00291 ,bus,hybrid,2018,TBM,11,64.0,EURO 6
+V00292,vélo,electric,2010,,,1.0,EURO 6
+V00293,bus,electric,2018,RATP,1,39.0,Euro6
+V00294,métro,electric,2008,TAN,4,200.0,Euro6
+V00295,bus,hybrid,2015,Tisséo,,85.0,Zéro émission
+V00296,vélo,human,2010,,,1.0,EURO 6
+V00297,métro,electric,2019,RATP,,200.0,N/A
+V00298,vélo,human,2010,,,1.0,N/A
+V00299,vélo,electric,2015,,,1.0,Zéro émission
+V00300,vélo,human,2018,,,1.0,Zéro émission
+V00301,bus,electric,2015,TCL,,,N/A
+V00302,bus,electric,2019,RATP,11,95.0,EURO 5
+V00303,vélo,electric,2021,,,1.0,EURO 5
+V00304,métro,electric,2010,CTS,13,200.0,N/A
+V00305,voiture,electric,2008,,,4.0,Zéro émission
+V00306,vélo,human,2019,,,1.0,EURO 6
+V00307,bus,hybrid,2017,TCL,,40.0,EURO 6
+V00308,métro,electric,2017,Ilévia,11,200.0,EURO 6
+V00309,métro,electric,2012,Ilévia,,200.0,EURO 6
+V00310,vélo,human,2019,,,1.0,EURO 6
+V00311,voiture,diesel,2017,,,4.0,EURO 6
+V00312,voiture,electric,2015,,,4.0,Zéro émission
+V00313,voiture,diesel,2019,,,4.0,Euro6
+V00314,bus,diesel,2018,RTM,5,49.0,N/A
+V00315,voiture,electric,2018,,,4.0,EURO 6
+V00316,métro,electric,2021,TCL,11,200.0,EURO 5
+V00317,voiture,electric,2015,,,4.0,N/A
+V00318,voiture,Essence ,2012,,,4.0,Euro6
+V00319,voiture,essence,2021,,,4.0,Euro6
+V00320,voiture,essence,2008,,,4.0,Euro6
+V00321,bus,diesel,2018,Lignes d'Azur,4,,EURO 5
+V00322,bus,diesel,2015,Lignes d'Azur,,70.0,Euro6
+V00323,métro,electric,2008,TaM,10,200.0,Zéro émission
+V00324,bus,electric,2008,TaM,,52.0,Zéro émission
+V00325,métro,electric,2019,RATP,5,200.0,EURO 5
+V00326,bus,hybrid,2010,CTS,3,78.0,N/A
+V00327,vélo,electric,2015,,,,EURO 6
+V00328,bus,electric,2012,RTM,,56.0,EURO 6
+V00329,voiture,diesel,2008,,,4.0,N/A
+V00330,métro,electric,2015,CTS,14,200.0,EURO 5
+V00331,tram,electric,2012,CTS,15,120.0,N/A
+V00332,BUS,electric,2010,Ilévia,13,40.0,N/A
+V00333,voiture,electric,2019,,,4.0,Euro6
+V00334,voiture,electric,2017,,,4.0,EURO 5
+V00335,vélo,human,2017,,,1.0,Euro6
+V00336,voiture,electric,2018,,,4.0,EURO 5
+V00337,bus,diesel,2018,TaM,7,46.0,N/A
+V00338,voiture,diesel,2010,,,4.0,N/A
+V00339,vélo,human,2017,,,1.0,EURO 5
+V00340,voiture,electric,2010,,,4.0,EURO 5
+V00341,vélo,human,2017,,,1.0,Euro6
+V00342,voiture,Diesel ,2020,,,4.0,EURO 5
+V00343,bus,hybrid,2012,TBM,1,64.0,EURO 5
+V00344,métro,electric,2015,RATP,12,200.0,N/A
+V00345,bus,electric,2018,TCL,8,52.0,EURO 6
+V00346,bus,electric,2008,TAN,,69.0,Zéro émission
+V00347,métro,electric,2022,TBM,11,,EURO 5
+V00348,bus,electric,2019,Lignes d'Azur,5,79.0,Euro6
+V00349,bus,electric,2019,CTS,,80.0,EURO 5
+V00350,bus,hybrid,2010,TCL,12,21.0,EURO 5
+V00351,tram,electric,2018,TaM,3,120.0,Zéro émission
+V00352,voiture,diesel,2021,,,4.0,Euro6
+V00353,vélo,electric,2019,,,1.0,N/A
+V00354,bus,electric,2018,CTS,7,61.0,EURO 5
+V00355,voiture,essence,2022,,,,Zéro émission
+V00356,voiture,electric,2008,,,4.0,Zéro émission
+V00357,tram,electric,2012,Tisséo,,120.0,Zéro émission
+V00358,tram,electric,2015,Ilévia,2,120.0,EURO 5
+V00359,voiture,electric,2021,,,4.0,N/A
+V00360,métro,electric,2010,RTM,,200.0,Euro6
+V00361,voiture,diesel,2021,,,4.0,Zéro émission
+V00362,voiture,electric,2017,,,4.0,EURO 5
+V00363,voiture,electric,2010,,,4.0,EURO 5
+V00364,métro,electric,2021,RATP,14,200.0,EURO 6
+V00365,métro,electric,2010,TCL,13,200.0,Euro6
+V00366,bus,electric,2020,RTM,10,42.0,EURO 5
+V00367,métro,electric,2021,Lignes d'Azur,,200.0,EURO 6
+V00368,vélo,human,2018,,,1.0,Euro6
+V00369,voiture,Diesel ,2012,,,4.0,Zéro émission
+V00370,voiture,essence,2017,,,4.0,Zéro émission
+V00371,voiture,essence,2015,,,4.0,EURO 6
+V00372,voiture,diesel,2021,,,4.0,Euro6
+V00373 ,voiture,essence,2021,,,4.0,Euro6
+V00374,métro,electric,2019,Tisséo,2,200.0,Zéro émission
+V00375,vélo,electric,2017,,,1.0,EURO 6
+V00376,voiture,essence,2022,,,4.0,EURO 6
+V00377,VOITURE,essence,2022,,,4.0,EURO 5
+V00378,vélo,human,2012,,,1.0,EURO 5
+V00379,vélo,electric,2022,,,1.0,N/A
+V00380,vélo,electric,2022,,,1.0,EURO 5
+V00381,vélo,electric,2020,,,1.0,N/A
+V00382,voiture,essence,2010,,,4.0,N/A
+V00383,vélo,human,2022,,,1.0,Zéro émission
+V00384,bus,electric,2015,TCL,,68.0,N/A
+V00385,tram,electric,2008,Lignes d'Azur,,120.0,EURO 6
+V00386,vélo,human,2022,,,1.0,Euro6
+V00387,bus,diesel,2010,Lignes d'Azur,5,90.0,EURO 5
+V00388,bus,diesel,2008,RTM,5,76.0,N/A
+V00389,bus,hybrid,2020,TCL,14,93.0,EURO 6
+V00390,bus,hybrid,2020,CTS,,49.0,EURO 5
+V00391,bus,Diesel ,2020,Lignes d'Azur,2,42.0,Euro6
+V00392,voiture,diesel,2008,,,4.0,EURO 6
+V00393,métro,electric,2019,RTM,,200.0,Zéro émission
+V00394,bus,diesel,2015,CTS,14,28.0,Zéro émission
+V00395,vélo,electric,2017,,,1.0,EURO 6
+V00396,vélo,human,2021,,,1.0,N/A
+V00397,bus,diesel,2012,Tisséo,,57.0,Euro6
+V00398,bus,electric,2015,TaM,3,55.0,EURO 6
+V00399,bus,electric,2010,RATP,,29.0,EURO 6
+V00400,métro,electric,2017,TCL,2,200.0,N/A
+V00401,bus,electric,2020,TaM,,73.0,EURO 6
+V00402,vélo,electric,2015,,,1.0,Zéro émission
+V00403,bus,electric,2008,RATP,11,65.0,N/A
+V00404,voiture,diesel,2008,,,4.0,EURO 6
+V00405,voiture,diesel,2020,,,4.0,Euro6
+V00406,métro,Electric ,2019,TaM,3,200.0,N/A
+V00407,voiture,diesel,2018,,,4.0,Zéro émission
+V00408,voiture,electric,2010,,,4.0,EURO 5
+V00409,bus,diesel,2017,Ilévia,13,59.0,Zéro émission
+V00410,tram,electric,2012,TaM,14,120.0,N/A
+V00411,tram,electric,2015,Lignes d'Azur,,120.0,Zéro émission
+V00412,vélo,human,2022,,,1.0,EURO 6
+V00413,bus,hybrid,2021,TBM,10,65.0,EURO 5
+V00414,voiture,essence,2018,,,4.0,EURO 6
+V00415,BUS,electric,2010,Ilévia,,70.0,EURO 6
+V00416,tram,electric,2018,TAN,4,120.0,Zéro émission
+V00417,vélo,electric,2022,,,1.0,EURO 6
+V00418,voiture,diesel,2019,,,4.0,Euro6
+V00419,voiture,essence,2017,,,4.0,Euro6
+V00420,métro,electric,2010,RATP,8,,Zéro émission
+V00421,voiture,essence,2022,,,4.0,EURO 6
+V00422,bus,diesel,2008,Lignes d'Azur,,72.0,EURO 5
+V00423,bus,hybrid,2015,Ilévia,7,51.0,Euro6
+V00424,voiture,diesel,2017,,,4.0,Euro6
+V00425 ,tram,electric,2015,Lignes d'Azur,3,120.0,N/A
+V00426,métro,electric,2022,Tisséo,1,200.0,Zéro émission
+V00427,tram,electric,2017,TCL,15,120.0,Zéro émission
+V00428,bus,electric,2015,CTS,15,65.0,EURO 6
+V00429,voiture,essence,2010,,,4.0,EURO 5
+V00430,bus,hybrid,2010,TaM,2,69.0,EURO 6
+V00431,bus,hybrid,2020,CTS,,37.0,EURO 6
+V00432,bus,hybrid,2022,RTM,,51.0,Euro6
+V00433,métro,electric,2015,TBM,,200.0,N/A
+V00434,vélo,human,2017,,,1.0,Euro6
+V00435,vélo,human,2022,,,1.0,EURO 5
+V00436,bus,electric,2022,RATP,11,50.0,N/A
+V00437,bus,electric,2021,TCL,,52.0,N/A
+V00438,voiture,electric,2022,,,4.0,N/A
+V00439,bus,electric,2020,Ilévia,,83.0,N/A
+V00440,voiture,electric,2012,,,4.0,Euro6
+V00441,tram,electric,2018,Ilévia,10,120.0,N/A
+V00442,tram,electric,2020,Ilévia,14,120.0,EURO 5
+V00443,voiture,electric,2010,,,4.0,EURO 6
+V00444,bus,diesel,2019,RTM,11,61.0,N/A
+V00445,vélo,human,2010,,,1.0,N/A
+V00446,BUS,diesel,2019,RTM,,49.0,EURO 5
+V00447,métro,electric,2020,TBM,,200.0,EURO 6
+V00448,bus,electric,2010,Lignes d'Azur,2,107.0,EURO 5
+V00449,bus,hybrid,2010,RTM,,67.0,Euro6
+V00450,bus,hybrid,2018,Tisséo,5,35.0,Euro6
+V00451,métro,electric,2020,CTS,,200.0,N/A
+V00452 ,vélo,human,2008,,,1.0,EURO 6
+V00453,voiture,diesel,2018,,,4.0,Zéro émission
+V00454,voiture,essence,2012,,,4.0,EURO 5
+V00455,bus,hybrid,2008,CTS,3,66.0,EURO 6
+V00456,voiture,Electric ,2022,,,4.0,N/A
+V00457,vélo,electric,2012,,,1.0,Zéro émission
+V00458,vélo,human,2019,,,,N/A
+V00459,vélo,human,2008,,,1.0,N/A
+V00460,vélo,electric,2012,,,1.0,EURO 5
+V00461,bus,hybrid,2010,Ilévia,13,80.0,EURO 6
+V00462,voiture,diesel,2010,,,4.0,Euro6
+V00463,vélo,electric,2022,,,1.0,Euro6
+V00464,tram,electric,2021,RTM,5,120.0,EURO 6
+V00465,voiture,diesel,2019,,,4.0,Euro6
+V00466,vélo,human,2020,,,1.0,Euro6
+V00467,voiture,essence,2015,,,4.0,Zéro émission
+V00468,bus,hybrid,2008,RATP,12,80.0,EURO 6
+V00469,tram,electric,2008,RATP,12,120.0,N/A
+V00470,tram,electric,2015,TAN,,120.0,EURO 5
+V00471,voiture,essence,2017,,,4.0,Euro6
+V00472,vélo,electric,2021,,,1.0,Euro6
+V00473,bus,hybrid,2021,CTS,3,10.0,Euro6
+V00474,bus,electric,2017,Tisséo,10,55.0,EURO 6
+V00475,vélo,electric,2020,,,1.0,EURO 6
+V00476,voiture,Diesel ,2008,,,4.0,EURO 6
+V00477,bus,electric,2010,TBM,,36.0,Euro6
+V00478,vélo,human,2019,,,1.0,N/A
+V00479,bus,electric,2020,Lignes d'Azur,,57.0,N/A
+V00480,métro,electric,2008,Lignes d'Azur,,200.0,EURO 5
+V00481,métro,electric,2017,Ilévia,4,200.0,Zéro émission
+V00482,métro,electric,2018,Ilévia,,200.0,Zéro émission
+V00483,métro,electric,2010,Tisséo,1,200.0,EURO 5
+V00484,métro,electric,2010,CTS,12,,Zéro émission
+V00485,vélo,electric,2020,,,1.0,N/A
+V00486,vélo,electric,2012,,,1.0,N/A
+V00487,bus,electric,2008,Ilévia,4,65.0,EURO 6
+V00488,bus,electric,2019,Ilévia,12,,N/A
+V00489,bus,electric,2015,Lignes d'Azur,9,62.0,EURO 6
+V00490,bus,electric,2012,CTS,13,44.0,N/A
+V00491,bus,diesel,2015,TCL,1,62.0,EURO 5
+V00492,vélo,electric,2008,,,1.0,Zéro émission
+V00493,vélo,human,2022,,,1.0,Euro6
+V00494,métro,electric,2021,RTM,3,200.0,N/A
+V00495,voiture,essence,2017,,,4.0,EURO 5
+V00496,bus,Diesel ,2015,Tisséo,5,28.0,EURO 5
+V00497,voiture,essence,2020,,,4.0,EURO 5
+V00498,bus,diesel,2018,TAN,9,71.0,N/A
+V00499,vélo,human,2019,,9999,1.0,EURO 5
+V00500,voiture,essence,2020,,,4.0,EURO 6
+V00501,voiture,Essence ,2019,,,4.0,EURO 5
+V00502,bus,electric,2020,CTS,14,72.0,EURO 5
+V00503,voiture,electric,2020,,,4.0,N/A
+V00504,bus,diesel,2021,TBM,5,33.0,Euro6
+V00505,métro,electric,2020,TBM,15,200.0,EURO 5
+V00506 ,bus,Diesel ,2021,TCL,5,73.0,Zéro émission
+V00507,bus,electric,2010,RATP,,67.0,Euro6
+V00508,voiture,diesel,2022,,,,Euro6
+V00509,tram,electric,2021,TBM,11,120.0,EURO 6
+V00510,tram,electric,2019,Lignes d'Azur,1,120.0,Zéro émission
+V00511,bus,hybrid,2020,TAN,2,50.0,EURO 5
+V00512,tram,electric,2008,Tisséo,11,120.0,N/A
+V00513,voiture,essence,2022,,,4.0,Euro6
+V00514,voiture,essence,2012,,,4.0,N/A
+V00515,vélo,electric,2017,,,1.0,Zéro émission
+V00516,bus,hybrid,2010,Lignes d'Azur,,48.0,Zéro émission
+V00517,bus,hybrid,2018,Tisséo,14,70.0,EURO 5
+V00518,voiture,electric,2012,,,4.0,EURO 5
+V00519,voiture,essence,2008,,,4.0,N/A
+V00520,vélo,electric,2017,,,1.0,EURO 6
+V00521,voiture,diesel,2012,,,4.0,Euro6
+V00522,tram,electric,2017,TBM,12,120.0,Euro6
+V00523,vélo,electric,2008,,,1.0,EURO 6
+V00524,vélo,human,2022,,,1.0,EURO 6
+V00525,voiture,essence,2015,,,4.0,Zéro émission
+V00526,voiture,essence,2010,,,4.0,Euro6
+V00527 ,vélo,electric,2015,,,1.0,Zéro émission
+V00528,bus,electric,2022,Lignes d'Azur,8,68.0,Zéro émission
+V00529,bus,electric,2010,TBM,7,61.0,EURO 5
+V00530,bus,hybrid,2015,RATP,5,75.0,Zéro émission
+V00531,bus,Diesel ,2021,Lignes d'Azur,4,48.0,EURO 5
+V00532,voiture,essence,2018,,,4.0,Euro6
+V00533,vélo,electric,2022,,,1.0,Euro6
+V00534,bus,hybrid,2022,Ilévia,7,71.0,EURO 6
+V00535,voiture,diesel,2022,,,4.0,EURO 6
+V00536,bus,hybrid,2019,RATP,9,,Zéro émission
+V00537,vélo,human,2020,,,1.0,N/A
+V00538,bus,electric,2018,RTM,,46.0,Zéro émission
+V00539,voiture,diesel,2018,,,4.0,EURO 6
+V00540,bus,hybrid,2015,RATP,5,72.0,Zéro émission
+V00541,métro,electric,2020,TBM,4,200.0,N/A
+V00542,TRAM,electric,2008,CTS,12,120.0,EURO 5
+V00543,voiture,essence,2008,,,4.0,Euro6
+V00544,bus,hybrid,2010,Lignes d'Azur,,69.0,Euro6
+V00545,vélo,human,2019,,,1.0,N/A
+V00546,bus,electric,2008,Ilévia,2,61.0,Euro6
+V00547,voiture,electric,2010,,,4.0,Zéro émission
+V00548,bus,electric,2022,Tisséo,13,72.0,EURO 6
+V00549,voiture,diesel,2021,,,4.0,Euro6
+V00550,voiture,essence,2020,,,4.0,Zéro émission
+V00551,bus,diesel,2008,CTS,8,28.0,Zéro émission
+V00552,vélo,human,2018,,,1.0,N/A
+V00553,tram,electric,2019,RATP,,120.0,EURO 6
+V00554,bus,hybrid,2019,RTM,5,51.0,EURO 6
+V00555,vélo,human,2019,,,,Zéro émission
+V00556,bus,electric,2012,TaM,8,56.0,N/A
+V00557,bus,electric,2017,TaM,3,67.0,EURO 5
+V00558,voiture,diesel,2022,,,4.0,EURO 5
+V00559,voiture,essence,2020,,,4.0,EURO 5
+V00560,bus,diesel,2022,TCL,12,66.0,EURO 6
+V00561,voiture,electric,2019,,,4.0,EURO 6
+V00562,vélo,electric,2019,,,1.0,EURO 6
+V00563,vélo,Electric ,2017,,,1.0,Euro6
+V00564,vélo,human,2015,,,1.0,N/A
+V00565,vélo,electric,2017,,,1.0,EURO 6
+V00566,métro,electric,2022,RTM,7,200.0,Zéro émission
+V00567,voiture,diesel,2021,,,4.0,EURO 6
+V00568,bus,diesel,2020,RATP,,39.0,Zéro émission
+V00569,voiture,diesel,2020,,,4.0,EURO 6
+V00570,bus,electric,2018,RATP,5,88.0,EURO 5
+V00571,vélo,electric,2020,,,1.0,EURO 5
+V00572,vélo,electric,2017,,,1.0,EURO 6
+V00573,vélo,electric,2019,,,1.0,Euro6
+V00574,vélo,electric,2008,,,1.0,Zéro émission
+V00575,tram,electric,2015,Lignes d'Azur,14,120.0,EURO 6
+V00576,vélo,electric,2021,,,,EURO 5
+V00577,voiture,electric,2018,,,4.0,EURO 6
+V00578,voiture,diesel,2017,,,4.0,EURO 6
+V00579,voiture,diesel,2010,,,4.0,EURO 6
+V00580,vélo,human,2019,,,1.0,N/A
+V00581,voiture,diesel,2012,,,4.0,Euro6
+V00582,métro,electric,2022,TCL,,200.0,EURO 6
+V00583,bus,hybrid,2018,TBM,,67.0,Zéro émission
+V00584,voiture,electric,2022,,9999,4.0,EURO 5
+V00585,voiture,electric,2018,,,4.0,N/A
+V00586,vélo,human,2020,,,,EURO 6
+V00587,voiture,electric,2015,,9999,4.0,N/A
+V00588,tram,electric,2019,Tisséo,14,120.0,EURO 6
+V00589,tram,electric,2012,Tisséo,3,120.0,N/A
+V00590,vélo,electric,2019,,,1.0,Zéro émission
+V00591,bus,electric,2010,Ilévia,3,73.0,N/A
+V00592,voiture,essence,2022,,,4.0,Zéro émission
+V00593,bus,diesel,2019,TaM,,68.0,Euro6
+V00594,voiture,Essence ,2019,,,4.0,EURO 5
+V00595,vélo,electric,2018,,,1.0,Zéro émission
+V00596,bus,hybrid,2019,TAN,,46.0,N/A
+V00597,métro,electric,2021,TaM,11,200.0,Euro6
+V00598,voiture,electric,2008,,,4.0,N/A
+V00599,métro,electric,2015,Ilévia,,200.0,N/A
+V00600,voiture,diesel,2018,,,4.0,EURO 5
+V00601,voiture,electric,2018,,,4.0,N/A
+V00602,voiture,Essence ,2022,,,4.0,Euro6
+V00603,bus,electric,2010,CTS,,36.0,Euro6
+V00604,bus,electric,2012,Tisséo,15,70.0,EURO 6
+V00605,bus,electric,2012,TAN,7,62.0,Euro6
+V00606,bus,diesel,2022,TAN,5,55.0,EURO 6
+V00607,vélo,human,2017,,,1.0,Euro6
+V00608,voiture,electric,2010,,,4.0,Zéro émission
+V00609,voiture,essence,2010,,,4.0,EURO 6
+V00610,voiture,diesel,2015,,,4.0,Euro6
+V00611,voiture,essence,2017,,,4.0,EURO 6
+V00612,voiture,essence,2020,,9999,4.0,Zéro émission
+V00613,bus,electric,2022,TBM,9999,30.0,EURO 5
+V00614,métro,electric,2018,TaM,2,200.0,N/A
+V00615,bus,electric,2015,Tisséo,2,71.0,EURO 5
+V00616 ,bus,electric,2018,Tisséo,,44.0,EURO 5
+V00617,voiture,essence,2020,,,4.0,Euro6
+V00618,bus,diesel,2017,Tisséo,12,36.0,Zéro émission
+V00619,bus,hybrid,2010,CTS,,52.0,N/A
+V00620,bus,hybrid,2012,RATP,,54.0,EURO 6
+V00621,métro,electric,2019,RTM,11,200.0,N/A
+V00622,bus,electric,2021,Lignes d'Azur,9,54.0,Euro6
+V00623,bus,diesel,2010,TCL,,83.0,Zéro émission
+V00624,vélo,human,2021,,,1.0,Euro6
+V00625,bus,diesel,2015,TaM,10,66.0,EURO 5
+V00626,bus,hybrid,2015,Ilévia,,67.0,N/A
+V00627,bus,hybrid,2010,RTM,10,25.0,Euro6
+V00628,tram,electric,2017,RATP,7,120.0,EURO 6
+V00629,bus,hybrid,2020,Tisséo,14,43.0,N/A
+V00630,voiture,diesel,2010,,,4.0,EURO 6
+V00631,MÉTRO,electric,2015,Lignes d'Azur,,200.0,EURO 5
+V00632,bus,electric,2018,TAN,,41.0,Euro6
+V00633,métro,electric,2020,Lignes d'Azur,15,200.0,EURO 6
+V00634,voiture,essence,2015,,,4.0,EURO 5
+V00635,vélo,electric,2019,,,1.0,N/A
+V00636,métro,electric,2017,CTS,11,200.0,Zéro émission
+V00637,bus,electric,2012,Tisséo,,,Euro6
+V00638,bus,electric,2021,TBM,12,54.0,N/A
+V00639,voiture,essence,2015,,,4.0,Euro6
+V00640,bus,hybrid,2017,Ilévia,12,40.0,Euro6
+V00641,voiture,electric,2008,,,4.0,EURO 6
+V00642,bus,hybrid,2008,CTS,5,55.0,EURO 5
+V00643,tram,electric,2010,Ilévia,12,120.0,EURO 6
+V00644,bus,electric,2021,TCL,,63.0,N/A
+V00645,voiture,electric,2008,,,4.0,EURO 6
+V00646,bus,diesel,2018,TaM,2,35.0,EURO 6
+V00647,vélo,electric,2015,,,1.0,Euro6
+V00648,bus,diesel,2017,RTM,5,57.0,Zéro émission
+V00649,bus,hybrid,2010,TAN,2,48.0,EURO 6
+V00650,métro,electric,2019,RATP,13,200.0,N/A
+V00651,voiture,electric,2015,,,4.0,N/A
+V00652,vélo,human,2019,,,1.0,Euro6
+V00653,VOITURE,essence,2015,,,4.0,EURO 5
+V00654,bus,diesel,2022,Tisséo,8,54.0,Zéro émission
+V00655,voiture,electric,2019,,,4.0,Euro6
+V00656,bus,electric,2015,TAN,,34.0,Euro6
+V00657,voiture,essence,2018,,,4.0,EURO 6
+V00658,vélo,human,2021,,,1.0,EURO 5
+V00659,voiture,diesel,2018,,,4.0,Zéro émission
+V00660,TRAM,electric,2018,Ilévia,5,120.0,EURO 6
+V00661,tram,electric,2021,TBM,11,120.0,EURO 6
+V00662,voiture,electric,2018,,,4.0,EURO 6
+V00663,TRAM,electric,2012,CTS,,120.0,Zéro émission
+V00664,bus,hybrid,2015,Lignes d'Azur,9,57.0,Euro6
+V00665,MÉTRO,electric,2021,RTM,11,200.0,EURO 6
+V00666,voiture,electric,2012,,,,Euro6
+V00667,tram,electric,2020,TaM,3,120.0,Zéro émission
+V00668,voiture,electric,2017,,,4.0,EURO 5
+V00669,bus,electric,2010,TCL,15,52.0,EURO 6
+V00670,bus,hybrid,2020,TaM,,83.0,Euro6
+V00671,métro,electric,2017,RATP,,200.0,EURO 5
+V00672,voiture,electric,2021,,,4.0,EURO 6
+V00673,vélo,human,2017,,,1.0,EURO 6
+V00674,vélo,Human ,2010,,,1.0,Zéro émission
+V00675,tram,electric,2018,CTS,13,120.0,EURO 6
+V00676,bus,diesel,2012,CTS,11,66.0,EURO 5
+V00677,vélo,human,2022,,,1.0,EURO 5
+V00678,tram,electric,2012,RTM,10,120.0,Zéro émission
+V00679,voiture,essence,2017,,,4.0,EURO 5
+V00680,tram,electric,2022,RTM,2,120.0,Euro6
+V00681,voiture,electric,2017,,,4.0,Zéro émission
+V00682,métro,electric,2018,Ilévia,,200.0,Euro6
+V00683,voiture,electric,2017,,,4.0,EURO 5
+V00684,métro,electric,2020,CTS,2,200.0,EURO 6
+V00685,voiture,electric,2020,,,4.0,Euro6
+V00686,voiture,electric,2019,,,4.0,N/A
+V00687,vélo,human,2020,,,1.0,EURO 6
+V00688,bus,hybrid,2012,CTS,,54.0,EURO 6
+V00689,bus,hybrid,2008,RTM,,38.0,EURO 6
+V00690,tram,electric,2019,Ilévia,2,120.0,Euro6
+V00691,métro,electric,2008,RATP,,200.0,Euro6
+V00692,bus,diesel,2021,TCL,13,88.0,EURO 5
+V00693,VOITURE,electric,2010,,,4.0,EURO 5
+V00694,tram,electric,2017,TBM,,120.0,Euro6
+V00695,voiture,diesel,2008,,,4.0,Zéro émission
+V00696,bus,electric,2010,Ilévia,1,87.0,N/A
+V00697,bus,electric,2010,RTM,13,33.0,N/A
+V00698,bus,electric,2018,Tisséo,,57.0,EURO 5
+V00699,vélo,electric,2015,,,1.0,Euro6
+V00700,voiture,electric,2012,,,4.0,Euro6
+V00701 ,voiture,essence,2022,,,4.0,Euro6
+V00702,voiture,electric,2008,,,4.0,Zéro émission
+V00703,vélo,electric,2015,,,1.0,N/A
+V00704,bus,hybrid,2020,Tisséo,,65.0,Zéro émission
+V00705,voiture,essence,2019,,,4.0,N/A
+V00706,vélo,electric,2017,,,1.0,N/A
+V00707,BUS,electric,2021,RATP,8,,EURO 6
+V00708,VÉLO,electric,2008,,,1.0,Euro6
+V00709,tram,electric,2019,TAN,15,120.0,Euro6
+V00710,métro,electric,2008,TAN,5,200.0,EURO 6
+V00711,tram,electric,2019,TCL,8,,EURO 6
+V00712,bus,hybrid,2015,RTM,8,50.0,EURO 5
+V00713,voiture,diesel,2021,,,4.0,Zéro émission
+V00714,bus,electric,2022,RTM,1,72.0,Zéro émission
+V00715,vélo,electric,2017,,,1.0,Zéro émission
+V00716,vélo,electric,2021,,,1.0,N/A
+V00717,bus,diesel,2017,TaM,15,58.0,N/A
+V00718,tram,electric,2017,Lignes d'Azur,4,120.0,N/A
+V00719,métro,Electric ,2017,Tisséo,8,200.0,EURO 5
+V00720,voiture,essence,2017,,,4.0,Zéro émission
+V00721,vélo,human,2022,,,1.0,Zéro émission
+V00722,bus,diesel,2022,TCL,2,62.0,EURO 5
+V00723,bus,hybrid,2010,TAN,1,23.0,Euro6
+V00724,vélo,electric,2021,,,1.0,EURO 5
+V00725,voiture,diesel,2015,,,4.0,Zéro émission
+V00726,bus,electric,2008,RATP,5,52.0,EURO 6
+V00727,bus,diesel,2012,TCL,,46.0,Zéro émission
+V00728,voiture,diesel,2015,,,4.0,N/A
+V00729,bus,diesel,2018,RATP,,84.0,Zéro émission
+V00730,voiture,electric,2021,,,4.0,EURO 5
+V00731,métro,electric,2010,CTS,5,200.0,Euro6
+V00732,métro,electric,2021,TAN,,200.0,Zéro émission
+V00733,vélo,electric,2015,,,1.0,N/A
+V00734 ,bus,electric,2019,Tisséo,5,72.0,EURO 6
+V00735,vélo,electric,2012,,,1.0,Zéro émission
+V00736,bus,electric,2019,TaM,13,72.0,EURO 5
+V00737,bus,diesel,2022,TCL,10,56.0,EURO 5
+V00738,tram,electric,2020,CTS,,120.0,EURO 6
+V00739,tram,electric,2015,Ilévia,5,120.0,EURO 6
+V00740,bus,diesel,2022,RATP,,53.0,EURO 5
+V00741,vélo,electric,2008,,,1.0,N/A
+V00742,bus,hybrid,2012,TBM,,40.0,Zéro émission
+V00743,voiture,diesel,2021,,,4.0,N/A
+V00744,métro,electric,2010,RTM,10,,Euro6
+V00745,TRAM,electric,2019,Tisséo,15,120.0,EURO 6
+V00746,voiture,diesel,2021,,,4.0,N/A
+V00747,tram,electric,2019,TCL,,120.0,N/A
+V00748,tram,electric,2015,Tisséo,,120.0,Euro6
+V00749,voiture,diesel,2022,,,4.0,N/A
+V00750,bus,hybrid,2018,CTS,15,,EURO 6
+V00751,bus,diesel,2021,TaM,12,72.0,N/A
+V00752,voiture,essence,2010,,,4.0,Zéro émission
+V00753,voiture,diesel,2018,,,4.0,Zéro émission
+V00754,voiture,electric,2018,,,4.0,EURO 5
+V00755,bus,diesel,2008,RTM,13,28.0,Euro6
+V00756,voiture,electric,2018,,,4.0,EURO 6
+V00757,métro,electric,2017,TBM,11,200.0,N/A
+V00758,vélo,human,2019,,,1.0,Zéro émission
+V00759,voiture,electric,2020,,,4.0,Zéro émission
+V00760,tram,electric,2008,CTS,9,120.0,Zéro émission
+V00761,vélo,human,2008,,,1.0,N/A
+V00762,bus,diesel,2020,CTS,2,77.0,EURO 5
+V00763,voiture,diesel,2021,,,4.0,Zéro émission
+V00764,voiture,electric,2010,,,4.0,EURO 6
+V00765,tram,electric,2010,Tisséo,5,120.0,N/A
+V00766,bus,diesel,2017,TaM,1,34.0,Euro6
+V00767,tram,electric,2021,TCL,14,120.0,Euro6
+V00768,métro,electric,2008,Ilévia,9,200.0,Zéro émission
+V00769,vélo,electric,2010,,,1.0,EURO 5
+V00770,vélo,electric,2015,,,1.0,Euro6
+V00771,métro,electric,2010,Tisséo,4,200.0,EURO 5
+V00772,vélo,electric,2021,,,1.0,EURO 6
+V00773,bus,diesel,2019,RATP,11,67.0,EURO 5
+V00774,VÉLO,electric,2012,,,1.0,EURO 6
+V00775,vélo,Human ,2019,,,1.0,N/A
+V00776,vélo,human,2019,,,,Euro6
+V00777,bus,electric,2020,RTM,10,43.0,EURO 5
+V00778,bus,diesel,2021,TaM,,73.0,N/A
+V00779,bus,electric,2015,TCL,,91.0,Euro6
+V00780,métro,electric,2021,RATP,9,200.0,EURO 6
+V00781,voiture,essence,2019,,,4.0,N/A
+V00782,tram,electric,2022,RTM,5,120.0,EURO 6
+V00783,vélo,human,2008,,,1.0,EURO 5
+V00784,tram,electric,2022,RTM,5,120.0,Euro6
+V00785,métro,electric,2021,TCL,1,200.0,Euro6
+V00786,métro,electric,2020,RATP,11,200.0,N/A
+V00787 ,MÉTRO,electric,2010,Tisséo,11,200.0,EURO 6
+V00788,bus,electric,2012,Tisséo,8,52.0,Euro6
+V00789,voiture,electric,2020,,,4.0,Zéro émission
+V00790,bus,diesel,2022,TCL,,60.0,EURO 6
+V00791,bus,hybrid,2021,RATP,,44.0,EURO 6
+V00792,vélo,human,2021,,,1.0,EURO 6
+V00793 ,voiture,electric,2017,,,4.0,Zéro émission
+V00794,bus,hybrid,2022,Lignes d'Azur,,90.0,EURO 5
+V00795,bus,diesel,2008,TBM,11,70.0,N/A
+V00796,vélo,electric,2012,,,1.0,N/A
+V00797,VOITURE,diesel,2010,,,4.0,EURO 5
+V00798,voiture,electric,2021,,,4.0,Euro6
+V00799,bus,electric,2020,CTS,,72.0,N/A
+V00800,bus,hybrid,2008,RTM,,64.0,Zéro émission
+V00801,métro,electric,2019,TaM,15,200.0,Euro6
+V00802,tram,electric,2020,Lignes d'Azur,4,120.0,Zéro émission
+V00803,bus,hybrid,2019,TAN,9,75.0,EURO 6
+V00804,bus,electric,2015,Lignes d'Azur,9999,96.0,EURO 5
+V00805,VOITURE,essence,2020,,,4.0,Euro6
+V00806,voiture,electric,2020,,9999,4.0,Euro6
+V00807,bus,hybrid,2008,TCL,5,41.0,Zéro émission
+V00808,métro,electric,2021,TBM,11,200.0,Euro6
+V00809,bus,hybrid,2012,Ilévia,9,65.0,Euro6
+V00810,vélo,electric,2012,,,1.0,N/A
+V00811,bus,hybrid,2022,Lignes d'Azur,15,61.0,EURO 5
+V00812,voiture,essence,2020,,,4.0,EURO 6
+V00813,vélo,electric,2018,,,1.0,EURO 6
+V00814,voiture,essence,2012,,,4.0,EURO 6
+V00815,bus,diesel,2020,RTM,9,84.0,Zéro émission
+V00816,bus,hybrid,2022,Ilévia,,52.0,Euro6
+V00817,vélo,human,2015,,,,N/A
+V00818,voiture,electric,2022,,,4.0,Zéro émission
+V00819,métro,electric,2021,Lignes d'Azur,3,200.0,EURO 6
+V00820,voiture,electric,2019,,,4.0,Euro6
+V00821,bus,electric,2020,RATP,3,73.0,Euro6
+V00822,voiture,diesel,2021,,,4.0,EURO 6
+V00823,métro,electric,2018,RATP,5,200.0,Euro6
+V00824,voiture,diesel,2021,,,4.0,Euro6
+V00825,voiture,electric,2018,,,4.0,N/A
+V00826,vélo,human,2018,,,1.0,N/A
+V00827,métro,electric,2022,Tisséo,8,200.0,Euro6
+V00828,voiture,diesel,2008,,,4.0,EURO 6
+V00829,tram,electric,2017,Lignes d'Azur,5,120.0,Euro6
+V00830,tram,electric,2015,RATP,,120.0,Euro6
+V00831,voiture,essence,2008,,,4.0,Zéro émission
+V00832,tram,electric,2010,TAN,5,120.0,Euro6
+V00833,bus,hybrid,2021,Lignes d'Azur,2,102.0,EURO 6
+V00834,voiture,essence,2010,,9999,4.0,N/A
+V00835,voiture,electric,2020,,,4.0,EURO 6
+V00836,bus,electric,2008,RTM,13,44.0,Zéro émission
+V00837,tram,electric,2018,RATP,4,120.0,Zéro émission
+V00838,vélo,human,2008,,,1.0,Zéro émission
+V00839,bus,diesel,2008,Lignes d'Azur,11,21.0,EURO 6
+V00840,tram,electric,2018,TAN,,120.0,EURO 5
+V00841,bus,diesel,2018,RTM,11,34.0,EURO 5
+V00842,BUS,diesel,2015,RTM,,57.0,EURO 5
+V00843,voiture,diesel,2022,,,4.0,Zéro émission
+V00844,voiture,essence,2020,,,4.0,Zéro émission
+V00845,bus,diesel,2022,RATP,4,98.0,Euro6
+V00846,bus,electric,2017,Tisséo,5,47.0,Zéro émission
+V00847,voiture,diesel,2010,,,4.0,EURO 5
+V00848,bus,hybrid,2008,TBM,12,48.0,EURO 6
+V00849,métro,electric,2022,Ilévia,,200.0,EURO 6
+V00850,bus,diesel,2022,RATP,9,68.0,EURO 5
+V00851,bus,electric,2019,TBM,13,65.0,EURO 6
+V00852,voiture,essence,2018,,9999,4.0,EURO 5
+V00853,vélo,electric,2022,,,1.0,N/A
+V00854,bus,hybrid,2021,RTM,2,80.0,EURO 6
+V00855,voiture,electric,2008,,,4.0,N/A
+V00856,bus,hybrid,2021,Ilévia,,73.0,Zéro émission
+V00857,vélo,electric,2020,,,1.0,Zéro émission
+V00858,vélo,electric,2015,,,1.0,EURO 6
+V00859,voiture,electric,2017,,,,EURO 6
+V00860,bus,electric,2018,Lignes d'Azur,14,53.0,N/A
+V00861,voiture,diesel,2021,,,4.0,Zéro émission
+V00862,bus,hybrid,2019,RATP,4,62.0,Euro6
+V00863,bus,hybrid,2022,TCL,9,49.0,N/A
+V00864,vélo,human,2015,,,1.0,Euro6
+V00865,voiture,electric,2018,,,4.0,EURO 6
+V00866,voiture,essence,2022,,,4.0,Zéro émission
+V00867,vélo,electric,2015,,,1.0,EURO 6
+V00868,tram,electric,2022,Lignes d'Azur,10,120.0,EURO 5
+V00869,vélo,electric,2021,,,1.0,N/A
+V00870,voiture,electric,2015,,,4.0,EURO 6
+V00871,bus,diesel,2008,Lignes d'Azur,7,71.0,EURO 5
+V00872,voiture,electric,2012,,,4.0,Euro6
+V00873,bus,electric,2019,RTM,10,77.0,Zéro émission
+V00874,voiture,electric,2008,,,4.0,Euro6
+V00875,voiture,essence,2008,,,4.0,EURO 5
+V00876,bus,hybrid,2022,Lignes d'Azur,2,32.0,N/A
+V00877,voiture,Diesel ,2018,,9999,4.0,N/A
+V00878,vélo,electric,2020,,,1.0,Zéro émission
+V00879,voiture,electric,2008,,,4.0,N/A
+V00880,voiture,essence,2021,,,4.0,Zéro émission
+V00881,voiture,electric,2019,,,4.0,EURO 6
+V00882,bus,hybrid,2015,TAN,4,67.0,Zéro émission
+V00883,voiture,electric,2021,,,4.0,EURO 6
+V00884,voiture,essence,2021,,,4.0,Zéro émission
+V00885,tram,electric,2021,TBM,13,120.0,N/A
+V00886,bus,diesel,2008,Tisséo,11,55.0,EURO 5
+V00887,vélo,electric,2019,,,1.0,Euro6
+V00888,voiture,essence,2015,,,4.0,EURO 5
+V00889,bus,hybrid,2015,RATP,13,50.0,EURO 6
+V00890,voiture,Electric ,2019,,,4.0,Zéro émission
+V00891,bus,electric,2022,RTM,,59.0,EURO 5
+V00892,vélo,human,2017,,,1.0,EURO 5
+V00893,métro,electric,2010,RTM,15,200.0,EURO 5
+V00894,tram,electric,2008,RATP,5,120.0,EURO 5
+V00895,tram,electric,2017,RTM,11,120.0,N/A
+V00896,vélo,electric,2022,,,1.0,EURO 5
+V00897,métro,electric,2012,TaM,,200.0,EURO 6
+V00898,vélo,electric,2020,,,1.0,EURO 6
+V00899,métro,electric,2008,TBM,,200.0,Zéro émission
+V00900,tram,electric,2019,Tisséo,8,120.0,EURO 5

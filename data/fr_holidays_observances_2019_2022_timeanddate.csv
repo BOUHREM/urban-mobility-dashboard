@@ -1,0 +1,101 @@
+year,date_raw,date_iso,holiday_name,type,details
+2019,1 Jan,,Tuesday,New Year's Day,National Holiday
+2019,1 May,,Wednesday,Labor Day,National Holiday
+2019,1 Nov,,Friday,All Saints' Day,National Holiday
+2019,10 Jun,,Monday,Whit Monday,National Holiday
+2019,11 Nov,,Monday,Armistice Day,National Holiday
+2019,14 Jul,,Sunday,Bastille Day,National Holiday
+2019,15 Aug,,Thursday,Assumption of Mary,National Holiday
+2019,16 Jun,,Sunday,Father's Day,Observance
+2019,19 Apr,,Friday,Good Friday,Local Holiday
+2019,20 Mar,,Wednesday,March Equinox,Season
+2019,21 Apr,,Sunday,Easter Sunday,Observance
+2019,21 Jun,,Friday,June Solstice,Season
+2019,22 Apr,,Monday,Easter Monday,National Holiday
+2019,22 Dec,,Sunday,December Solstice,Season
+2019,23 Sep,,Monday,September Equinox,Season
+2019,24 Dec,,Tuesday,Christmas Eve,Observance
+2019,25 Dec,,Wednesday,Christmas Day,National Holiday
+2019,26 Dec,,Thursday,St Stephen's Day,Local Holiday
+2019,26 May,,Sunday,Mother's Day,Observance
+2019,27 Oct,,Sunday,Daylight Saving Time ends,Clock Change/Daylight Saving Time
+2019,30 May,,Thursday,Ascension Day,National Holiday
+2019,31 Dec,,Tuesday,New Year's Eve,Observance
+2019,31 Mar,,Sunday,Daylight Saving Time starts,Clock Change/Daylight Saving Time
+2019,8 May,,Wednesday,WWII Victory Day,National Holiday
+2019,9 Jun,,Sunday,Whit Sunday,Observance
+2020,1 Jan,,Wednesday,New Year's Day,National Holiday
+2020,1 Jun,,Monday,Whit Monday,National Holiday
+2020,1 May,,Friday,Labor Day,National Holiday
+2020,1 Nov,,Sunday,All Saints' Day,National Holiday
+2020,10 Apr,,Friday,Good Friday,Local Holiday
+2020,11 Nov,,Wednesday,Armistice Day,National Holiday
+2020,12 Apr,,Sunday,Easter Sunday,Observance
+2020,13 Apr,,Monday,Easter Monday,National Holiday
+2020,14 Jul,,Tuesday,Bastille Day,National Holiday
+2020,15 Aug,,Saturday,Assumption of Mary,National Holiday
+2020,20 Jun,,Saturday,June Solstice,Season
+2020,20 Mar,,Friday,March Equinox,Season
+2020,21 Dec,,Monday,December Solstice,Season
+2020,21 Jun,,Sunday,Father's Day,Observance
+2020,21 May,,Thursday,Ascension Day,National Holiday
+2020,22 Sep,,Tuesday,September Equinox,Season
+2020,24 Dec,,Thursday,Christmas Eve,Observance
+2020,25 Dec,,Friday,Christmas Day,National Holiday
+2020,25 Oct,,Sunday,Daylight Saving Time ends,Clock Change/Daylight Saving Time
+2020,26 Dec,,Saturday,St Stephen's Day,Local Holiday
+2020,29 Mar,,Sunday,Daylight Saving Time starts,Clock Change/Daylight Saving Time
+2020,31 Dec,,Thursday,New Year's Eve,Observance
+2020,31 May,,Sunday,Whit Sunday,Observance
+2020,7 Jun,,Sunday,Mother's Day,Observance
+2020,8 May,,Friday,WWII Victory Day,National Holiday
+2021,1 Jan,,Friday,New Year's Day,National Holiday
+2021,1 May,,Saturday,Labor Day,National Holiday
+2021,1 Nov,,Monday,All Saints' Day,National Holiday
+2021,11 Nov,,Thursday,Armistice Day,National Holiday
+2021,13 May,,Thursday,Ascension Day,National Holiday
+2021,14 Jul,,Wednesday,Bastille Day,National Holiday
+2021,15 Aug,,Sunday,Assumption of Mary,National Holiday
+2021,2 Apr,,Friday,Good Friday,Local Holiday
+2021,20 Jun,,Sunday,Father's Day,Observance
+2021,20 Mar,,Saturday,March Equinox,Season
+2021,21 Dec,,Tuesday,December Solstice,Season
+2021,21 Jun,,Monday,June Solstice,Season
+2021,22 Sep,,Wednesday,September Equinox,Season
+2021,23 May,,Sunday,Whit Sunday,Observance
+2021,24 Dec,,Friday,Christmas Eve,Observance
+2021,24 May,,Monday,Whit Monday,National Holiday
+2021,25 Dec,,Saturday,Christmas Day,National Holiday
+2021,26 Dec,,Sunday,St Stephen's Day,Local Holiday
+2021,28 Mar,,Sunday,Daylight Saving Time starts,Clock Change/Daylight Saving Time
+2021,30 May,,Sunday,Mother's Day,Observance
+2021,31 Dec,,Friday,New Year's Eve,Observance
+2021,31 Oct,,Sunday,Daylight Saving Time ends,Clock Change/Daylight Saving Time
+2021,4 Apr,,Sunday,Easter Sunday,Observance
+2021,5 Apr,,Monday,Easter Monday,National Holiday
+2021,8 May,,Saturday,WWII Victory Day,National Holiday
+2022,1 Jan,,Saturday,New Year's Day,National Holiday
+2022,1 May,,Sunday,Labor Day,National Holiday
+2022,1 Nov,,Tuesday,All Saints' Day,National Holiday
+2022,11 Nov,,Friday,Armistice Day,National Holiday
+2022,14 Jul,,Thursday,Bastille Day,National Holiday
+2022,15 Apr,,Friday,Good Friday,Local Holiday
+2022,15 Aug,,Monday,Assumption of Mary,National Holiday
+2022,17 Apr,,Sunday,Easter Sunday,Observance
+2022,18 Apr,,Monday,Easter Monday,National Holiday
+2022,19 Jun,,Sunday,Father's Day,Observance
+2022,20 Mar,,Sunday,March Equinox,Season
+2022,21 Dec,,Wednesday,December Solstice,Season
+2022,21 Jun,,Tuesday,June Solstice,Season
+2022,23 Sep,,Friday,September Equinox,Season
+2022,24 Dec,,Saturday,Christmas Eve,Observance
+2022,25 Dec,,Sunday,Christmas Day,National Holiday
+2022,26 Dec,,Monday,St Stephen's Day,Local Holiday
+2022,26 May,,Thursday,Ascension Day,National Holiday
+2022,27 Mar,,Sunday,Daylight Saving Time starts,Clock Change/Daylight Saving Time
+2022,29 May,,Sunday,Mother's Day,Observance
+2022,30 Oct,,Sunday,Daylight Saving Time ends,Clock Change/Daylight Saving Time
+2022,31 Dec,,Saturday,New Year's Eve,Observance
+2022,5 Jun,,Sunday,Whit Sunday,Observance
+2022,6 Jun,,Monday,Whit Monday,National Holiday
+2022,8 May,,Sunday,WWII Victory Day,National Holiday

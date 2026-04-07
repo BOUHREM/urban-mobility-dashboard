@@ -1,0 +1,13 @@
+zone_id,zone_nom,ville,region,pays,lat_centre,lon_centre,surface_km2,population_estimee,code_insee_commune,note_admin
+1,  Paris 1er Arrondissement,Paris,Île-de-France,FR,48.8625,2.3361,1.83,17000,75101,
+2,Lyon 2e Arrondissement,lyon,Auvergne-Rhône-Alpes,FR,45.748,4.8267,3.41,30000,69382,
+3,Marseille 1er Arrondissement,Marseille,Provence-Alpes-Cote d'Azur,FR,43.2966,5.3764,1.78,39000,13201,à vérifier
+4,Toulouse Centre (Capitole),Toulouse,Occitanie,FR,43.6045,1.4442,"2,35",21000,31555,
+5,Bordeaux Centre (Hôtel de Ville),Bordeaux,Nouvelle-Aquitaine,FR,44.8378,-0.5792,2.0,25 000,33063,
+6,Lille Centre,Lille,Hauts-de-France,FR,50.6292,3.0573,2.2,30000,59350 ,
+7,Nantes Centre,Nantes,Pays de la Loire,FR,47.2184,-1.5536,2.6,33000,44109,
+8,Strasbourg Centre,Strasbourg,Grand Est,FR,,,2.1,28000,67482,
+9,Nice Centre (Jean Médecin),Nice,Provence-Alpes-Côte d'Azur,France,43.7032,7.2663,2.3,35000,06088,
+10,Montpellier Centre,Montpellier,Occitanie,FR,43.6119,3.8772,2.4,32000,34172,
+11,Paris 1er Arrondissement,Paris,Île-de-France,FR,48.8625,2.3361,1.83,17000,75101,
+5,Bordeaux Centre (Hôtel de Ville),Bordeaux,Nouvelle-Aquitaine,FR,44.8378,-0.5792,2.0,25000,33063,

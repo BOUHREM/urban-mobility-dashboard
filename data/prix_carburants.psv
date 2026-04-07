@@ -1,0 +1,501 @@
+price_id|region|periode_mois|annee|mois|fuel_type|prix_unitaire|devise
+286|Auvergne-Rhône-Alpes|2022-12|2022|12|diesel|1.398|EUR
+891|Pays de la Loire|2019-09|2019|9|electric_kwh|€0.29|€
+226|Auvergne-Rhône-Alpes|2021-04|2021|4|diesel|1.303|eur
+67|Île-de-France|2020-11|2020|11|diesel|1.338|eur
+1012|Grand Est|2019-02|2019|2|diesel|1.518|€
+954|Pays de la Loire|2021-06|2021|6|electric_kwh|0,069|eur
+252|Auvergne-Rhône-Alpes|2021-12|2021|12|electric_kwh|0.103|€
+266|Auvergne-Rhône-Alpes|2022-05|2022|5|essence|1.354|eur
+1050|Grand Est|2020-02|2020|2|electric_kwh|0.148|EUR
+331|Provence-Alpes-Côte d'Azur|2020-03|2020|3|diesel|1,385|€
+448|Occitanie|2019-06|2019|6|diesel|NA|EUR
+239|Auvergne-Rhône-Alpes|2021-08|2021|8|essence|1,506|eur
+59|Île-de-France|2020-08|2020|8|essence|1,580|eur
+245|Auvergne-Rhône-Alpes|2021-10|2021|10|essence|1,415|EUR
+93|Île-de-France|2021-07|2021|7|electric_kwh|NA|eur
+870|Pays de la Loire|2019-02|2019|2|electric_kwh|0,212|€
+353|Provence-Alpes-Côte d'Azur|2020-10|2020|10|essence|1.192|eur
+1086|Grand Est|2021-02|2021|2|electric_kwh|0,229|€
+782|Hauts-de-France|2020-09|2020|9|essence|1,554|eur
+693|Nouvelle-Aquitaine|2022-03|2022|3|electric_kwh||EUR
+957|Pays de la Loire|2021-07|2021|7|electric_kwh|NA|EUR
+609|Nouvelle-Aquitaine|2019-11|2019|11|electric_kwh|0,111|EUR
+228|Auvergne-Rhône-Alpes|2021-04|2021|4|electric_kwh|0,050|€
+189|Auvergne-Rhône-Alpes|2020-03|2020|3|electric_kwh|0.096|eur
+984|Pays de la Loire|2022-04|2022|4|electric_kwh|0,072|EUR
+831|Hauts-de-France|2022-01|2022|1|electric_kwh|0.218|eur
+89|Île-de-France|2021-06|2021|6|essence|1.724|eur
+414|Provence-Alpes-Côte d'Azur|2022-06|2022|6|electric_kwh|0,262|EUR
+1045|Grand Est|2020-01|2020|1|diesel|1.231|eur
+963|Pays de la Loire|2021-09|2021|9|electric_kwh|0.220|eur
+99|Île-de-France|2021-09|2021|9|electric_kwh|0.241|eur
+329|Provence-Alpes-Côte d'Azur|2020-02|2020|2|essence|1,482|eur
+16|Île-de-France|2019-06|2019|6|diesel|1,119|EUR
+517|Occitanie|2021-05|2021|5|diesel|€1.35|€
+722|Hauts-de-France|2019-01|2019|1|essence|1,439|eur
+890|Pays de la Loire|2019-09|2019|9|essence|1.553|eur
+633|Nouvelle-Aquitaine|2020-07|2020|7|electric_kwh|0.254|€
+879|Pays de la Loire|2019-05|2019|5|electric_kwh|NA|eur
+1054|Grand Est|2020-04|2020|4|diesel|1,329|€
+740|Hauts-de-France|2019-07|2019|7|essence|1.650|€
+1005|Pays de la Loire|2022-11|2022|11|electric_kwh|€0.26|eur
+1036|Grand Est|2019-10|2019|10|diesel|1.315|eur
+134|Île-de-France|2022-09|2022|9|essence||eur
+409|Provence-Alpes-Côte d'Azur|2022-05|2022|5|diesel|€1.46|eur
+524|Occitanie|2021-07|2021|7|essence|€1.51|eur
+503|Occitanie|2020-12|2020|12|essence|1.575|EUR
+927|Pays de la Loire|2020-09|2020|9|electric_kwh|0.096|€
+990|Pays de la Loire|2022-06|2022|6|electric_kwh|NA|EUR
+1018|Grand Est|2019-04|2019|4|diesel|1,348|EUR
+643|Nouvelle-Aquitaine|2020-11|2020|11|diesel|1,336|eur
+284|Auvergne-Rhône-Alpes|2022-11|2022|11|essence|1.532|eur
+678|Nouvelle-Aquitaine|2021-10|2021|10|electric_kwh|0,219|eur
+111|Île-de-France|2022-01|2022|1|electric_kwh|€0.10|€
+363|Provence-Alpes-Côte d'Azur|2021-01|2021|1|electric_kwh|0.322|EUR
+864|Hauts-de-France|2022-12|2022|12|electric_kwh|0,147|EUR
+764|Hauts-de-France|2020-03|2020|3|essence|1,525|€
+849|Hauts-de-France|2022-07|2022|7|electric_kwh|€0.05|€
+167|Auvergne-Rhône-Alpes|2019-08|2019|8|essence|1,257|EUR
+559|Occitanie|2022-07|2022|7|diesel|NA|EUR
+716|Nouvelle-Aquitaine|2022-11|2022|11|essence|1,557|€
+827|Hauts-de-France|2021-12|2021|12|essence|€1.34|EUR
+536|Occitanie|2021-11|2021|11|essence|1.384|eur
+741|Hauts-de-France|2019-07|2019|7|electric_kwh|0,205|eur
+139|Île-de-France|2022-11|2022|11|diesel|1.306|eur
+518|Occitanie|2021-05|2021|5|essence|1.316|EUR
+348|Provence-Alpes-Côte d'Azur|2020-08|2020|8|electric_kwh|0.104|eur
+975|Pays de la Loire|2022-01|2022|1|electric_kwh|€0.31|€
+668|Nouvelle-Aquitaine|2021-07|2021|7|essence|€1.64|eur
+76|Île-de-France|2021-02|2021|2|diesel|1.164|€
+1087|Grand Est|2021-03|2021|3|diesel|1,357|eur
+982|Pays de la Loire|2022-04|2022|4|diesel|€1.36|€
+595|Nouvelle-Aquitaine|2019-07|2019|7|diesel|1.265|EUR
+826|Hauts-de-France|2021-12|2021|12|diesel|1.274|€
+103|Île-de-France|2021-11|2021|11|diesel|1,326|€
+672|Nouvelle-Aquitaine|2021-08|2021|8|electric_kwh|0,139|€
+163|Auvergne-Rhône-Alpes|2019-07|2019|7|diesel|1,268|eur
+478|Occitanie|2020-04|2020|4|diesel|€1.45|eur
+306|Provence-Alpes-Côte d'Azur|2019-06|2019|6|electric_kwh|0.369|eur
+995|Pays de la Loire|2022-08|2022|8|essence|1,532|€
+1144|Grand Est|2022-10|2022|10|diesel|NA|€
+48|Île-de-France|2020-04|2020|4|electric_kwh|0.339|eur
+153|Auvergne-Rhône-Alpes|2019-03|2019|3|electric_kwh|0.240|€
+653|Nouvelle-Aquitaine|2021-02|2021|2|essence|1.489|EUR
+77|Île-de-France|2021-02|2021|2|essence|1,393|eur
+787|Hauts-de-France|2020-11|2020|11|diesel|1,378|EUR
+900|Pays de la Loire|2019-12|2019|12|electric_kwh|€0.05|€
+66|Île-de-France|2020-10|2020|10|electric_kwh|0.244|€
+651|Nouvelle-Aquitaine|2021-01|2021|1|electric_kwh|€0.08|EUR
+1044|Grand Est|2019-12|2019|12|electric_kwh|0.396|EUR
+280|Auvergne-Rhône-Alpes|2022-10|2022|10|diesel|1.306|€
+821|Hauts-de-France|2021-10|2021|10|essence|€1.50|€
+1143|Grand Est|2022-09|2022|9|electric_kwh|€0.19|eur
+699|Nouvelle-Aquitaine|2022-05|2022|5|electric_kwh|€0.34|€
+560|Occitanie|2022-07|2022|7|essence|1.465|eur
+937|Pays de la Loire|2021-01|2021|1|diesel|€1.30|EUR
+337|Provence-Alpes-Côte d'Azur|2020-05|2020|5|diesel|NA|eur
+1072|Grand Est|2020-10|2020|10|diesel||€
+904|Pays de la Loire|2020-02|2020|2|diesel|NA|EUR
+64|Île-de-France|2020-10|2020|10|diesel|1.425|eur
+261|Auvergne-Rhône-Alpes|2022-03|2022|3|electric_kwh|0,105|EUR
+375|Provence-Alpes-Côte d'Azur|2021-05|2021|5|electric_kwh||€
+32|Île-de-France|2019-11|2019|11|essence|€1.43|EUR
+1104|Grand Est|2021-08|2021|8|electric_kwh|0,284|EUR
+889|Pays de la Loire|2019-09|2019|9|diesel|1,262|EUR
+238|Auvergne-Rhône-Alpes|2021-08|2021|8|diesel|1.487|EUR
+410|Provence-Alpes-Côte d'Azur|2022-05|2022|5|essence|€1.40|EUR
+1002|Pays de la Loire|2022-10|2022|10|electric_kwh|0,120|€
+294|Provence-Alpes-Côte d'Azur|2019-02|2019|2|electric_kwh|NA|eur
+589|Nouvelle-Aquitaine|2019-05|2019|5|diesel|1.412|€
+428|Provence-Alpes-Côte d'Azur|2022-11|2022|11|essence|1.537|eur
+165|Auvergne-Rhône-Alpes|2019-07|2019|7|electric_kwh|€0.10|EUR
+148|Auvergne-Rhône-Alpes|2019-02|2019|2|diesel|1.316|eur
+924|Pays de la Loire|2020-08|2020|8|electric_kwh|0.116|EUR
+402|Provence-Alpes-Côte d'Azur|2022-02|2022|2|electric_kwh|0.204|eur
+983|Pays de la Loire|2022-04|2022|4|essence|1.544|€
+1000|Pays de la Loire|2022-10|2022|10|diesel|1,484|EUR
+45|Île-de-France|2020-03|2020|3|electric_kwh|0.306|eur
+1053|Grand Est|2020-03|2020|3|electric_kwh|0.149|EUR
+886|Pays de la Loire|2019-08|2019|8|diesel|1.485|eur
+406|Provence-Alpes-Côte d'Azur|2022-04|2022|4|diesel|1.289|eur
+815|Hauts-de-France|2021-08|2021|8|essence|1.437|eur
+965|Pays de la Loire|2021-10|2021|10|essence|1,438|eur
+723|Hauts-de-France|2019-01|2019|1|electric_kwh|NA|€
+36|Île-de-France|2019-12|2019|12|electric_kwh|0.058|eur
+343|Provence-Alpes-Côte d'Azur|2020-07|2020|7|diesel|€1.53|eur
+502|Occitanie|2020-12|2020|12|diesel|1,127|EUR
+774|Hauts-de-France|2020-06|2020|6|electric_kwh|0.138|eur
+1110|Grand Est|2021-10|2021|10|electric_kwh|0.050|€
+987|Pays de la Loire|2022-05|2022|5|electric_kwh|€0.13|eur
+516|Occitanie|2021-04|2021|4|electric_kwh|0,127|eur
+880|Pays de la Loire|2019-06|2019|6|diesel|NA|EUR
+736|Hauts-de-France|2019-06|2019|6|diesel||EUR
+425|Provence-Alpes-Côte d'Azur|2022-10|2022|10|essence|NA|€
+287|Auvergne-Rhône-Alpes|2022-12|2022|12|essence|1.408|EUR
+658|Nouvelle-Aquitaine|2021-04|2021|4|diesel|1.233|€
+358|Provence-Alpes-Côte d'Azur|2020-12|2020|12|diesel|1.448|EUR
+113|Île-de-France|2022-02|2022|2|essence|1.484|€
+1075|Grand Est|2020-11|2020|11|diesel|1,369|EUR
+192|Auvergne-Rhône-Alpes|2020-04|2020|4|electric_kwh|NA|€
+892|Pays de la Loire|2019-10|2019|10|diesel|1,325|eur
+156|Auvergne-Rhône-Alpes|2019-04|2019|4|electric_kwh|€0.26|€
+894|Pays de la Loire|2019-10|2019|10|electric_kwh|0,214|eur
+155|Auvergne-Rhône-Alpes|2019-04|2019|4|essence|1,522|EUR
+34|Île-de-France|2019-12|2019|12|diesel|1,302|eur
+116|Île-de-France|2022-03|2022|3|essence|1.356|eur
+3|Île-de-France|2019-01|2019|1|electric_kwh|€0.19|€
+838|Hauts-de-France|2022-04|2022|4|diesel|1.283|€
+558|Occitanie|2022-06|2022|6|electric_kwh|NA|EUR
+483|Occitanie|2020-05|2020|5|electric_kwh|0.422|eur
+60|Île-de-France|2020-08|2020|8|electric_kwh|€0.16|EUR
+426|Provence-Alpes-Côte d'Azur|2022-10|2022|10|electric_kwh|0.330|€
+73|Île-de-France|2021-01|2021|1|diesel|1.395|eur
+930|Pays de la Loire|2020-10|2020|10|electric_kwh|0,079|€
+1033|Grand Est|2019-09|2019|9|diesel|NA|eur
+1130|Grand Est|2022-05|2022|5|essence|1.390|€
+799|Hauts-de-France|2021-03|2021|3|diesel|1,480|€
+575|Occitanie|2022-12|2022|12|essence|1.484|€
+327|Provence-Alpes-Côte d'Azur|2020-01|2020|1|electric_kwh|€0.05|eur
+232|Auvergne-Rhône-Alpes|2021-06|2021|6|diesel|1,268|EUR
+522|Occitanie|2021-06|2021|6|electric_kwh|€0.13|eur
+164|Auvergne-Rhône-Alpes|2019-07|2019|7|essence|1,321|EUR
+865|Pays de la Loire|2019-01|2019|1|diesel|1.292|eur
+377|Provence-Alpes-Côte d'Azur|2021-06|2021|6|essence|€1.59|€
+316|Provence-Alpes-Côte d'Azur|2019-10|2019|10|diesel|NA|€
+1011|Grand Est|2019-01|2019|1|electric_kwh|€0.18|€
+490|Occitanie|2020-08|2020|8|diesel|1,435|EUR
+946|Pays de la Loire|2021-04|2021|4|diesel|1,272|€
+676|Nouvelle-Aquitaine|2021-10|2021|10|diesel|1.301|EUR
+1057|Grand Est|2020-05|2020|5|diesel|1.318|€
+1124|Grand Est|2022-03|2022|3|essence|1.449|eur
+301|Provence-Alpes-Côte d'Azur|2019-05|2019|5|diesel|1.468|€
+371|Provence-Alpes-Côte d'Azur|2021-04|2021|4|essence|€1.60|EUR
+666|Nouvelle-Aquitaine|2021-06|2021|6|electric_kwh|0.050|EUR
+391|Provence-Alpes-Côte d'Azur|2021-11|2021|11|diesel|1.464|EUR
+68|Île-de-France|2020-11|2020|11|essence|1.648|EUR
+624|Nouvelle-Aquitaine|2020-04|2020|4|electric_kwh|€0.20|eur
+1088|Grand Est|2021-03|2021|3|essence|1,473|€
+637|Nouvelle-Aquitaine|2020-09|2020|9|diesel|€1.30|eur
+381|Provence-Alpes-Côte d'Azur|2021-07|2021|7|electric_kwh|0.173|eur
+940|Pays de la Loire|2021-02|2021|2|diesel|€1.11|eur
+901|Pays de la Loire|2020-01|2020|1|diesel|1,275|€
+1106|Grand Est|2021-09|2021|9|essence|€1.36|€
+777|Hauts-de-France|2020-07|2020|7|electric_kwh|0,211|EUR
+1102|Grand Est|2021-08|2021|8|diesel|1.402|eur
+854|Hauts-de-France|2022-09|2022|9|essence|€1.55|eur
+671|Nouvelle-Aquitaine|2021-08|2021|8|essence|1.507|eur
+571|Occitanie|2022-11|2022|11|diesel|1,256|eur
+917|Pays de la Loire|2020-06|2020|6|essence|1.443|€
+154|Auvergne-Rhône-Alpes|2019-04|2019|4|diesel|1,395|EUR
+320|Provence-Alpes-Côte d'Azur|2019-11|2019|11|essence|1,440|eur
+626|Nouvelle-Aquitaine|2020-05|2020|5|essence|1.426|eur
+667|Nouvelle-Aquitaine|2021-07|2021|7|diesel|1.260|EUR
+567|Occitanie|2022-09|2022|9|electric_kwh|0,238|EUR
+647|Nouvelle-Aquitaine|2020-12|2020|12|essence|1.370|EUR
+1064|Grand Est|2020-07|2020|7|essence||eur
+769|Hauts-de-France|2020-05|2020|5|diesel|€1.28|eur
+686|Nouvelle-Aquitaine|2022-01|2022|1|essence|1,283|eur
+222|Auvergne-Rhône-Alpes|2021-02|2021|2|electric_kwh|0.274|EUR
+1023|Grand Est|2019-05|2019|5|electric_kwh|0.195|EUR
+136|Île-de-France|2022-10|2022|10|diesel|€1.32|EUR
+1063|Grand Est|2020-07|2020|7|diesel|1,517|EUR
+179|Auvergne-Rhône-Alpes|2019-12|2019|12|essence|€1.37|EUR
+105|Île-de-France|2021-11|2021|11|electric_kwh|0.378|eur
+1047|Grand Est|2020-01|2020|1|electric_kwh|NA|eur
+1078|Grand Est|2020-12|2020|12|diesel|1.405|€
+364|Provence-Alpes-Côte d'Azur|2021-02|2021|2|diesel|1.341|€
+1116|Grand Est|2021-12|2021|12|electric_kwh|0.199|€
+323|Provence-Alpes-Côte d'Azur|2019-12|2019|12|essence|NA|€
+487|Occitanie|2020-07|2020|7|diesel|1.288|eur
+908|Pays de la Loire|2020-03|2020|3|essence|1,662|EUR
+885|Pays de la Loire|2019-07|2019|7|electric_kwh|NA|EUR
+645|Nouvelle-Aquitaine|2020-11|2020|11|electric_kwh|0,160|eur
+683|Nouvelle-Aquitaine|2021-12|2021|12|essence|NA|€
+872|Pays de la Loire|2019-03|2019|3|essence|1.343|€
+376|Provence-Alpes-Côte d'Azur|2021-06|2021|6|diesel|1.443|EUR
+1105|Grand Est|2021-09|2021|9|diesel|1.505|€
+526|Occitanie|2021-08|2021|8|diesel|1.312|eur
+994|Pays de la Loire|2022-08|2022|8|diesel|€1.39|eur
+733|Hauts-de-France|2019-05|2019|5|diesel|1,381|eur
+1096|Grand Est|2021-06|2021|6|diesel|€1.54|EUR
+41|Île-de-France|2020-02|2020|2|essence|1,414|EUR
+147|Auvergne-Rhône-Alpes|2019-01|2019|1|electric_kwh|€0.22|€
+823|Hauts-de-France|2021-11|2021|11|diesel|1.296|EUR
+999|Pays de la Loire|2022-09|2022|9|electric_kwh|NA|EUR
+519|Occitanie|2021-05|2021|5|electric_kwh|0,375|€
+1058|Grand Est|2020-05|2020|5|essence|€1.48|EUR
+1108|Grand Est|2021-10|2021|10|diesel|1,631|eur
+180|Auvergne-Rhône-Alpes|2019-12|2019|12|electric_kwh|0.050|EUR
+851|Hauts-de-France|2022-08|2022|8|essence|1.386|€
+697|Nouvelle-Aquitaine|2022-05|2022|5|diesel|1,192|€
+700|Nouvelle-Aquitaine|2022-06|2022|6|diesel|1.274|eur
+326|Provence-Alpes-Côte d'Azur|2020-01|2020|1|essence|1,468|€
+1008|Pays de la Loire|2022-12|2022|12|electric_kwh|0.106|eur
+682|Nouvelle-Aquitaine|2021-12|2021|12|diesel|1,436|EUR
+1091|Grand Est|2021-04|2021|4|essence|1,522|€
+1138|Grand Est|2022-08|2022|8|diesel|1,328|€
+907|Pays de la Loire|2020-03|2020|3|diesel|1,384|EUR
+162|Auvergne-Rhône-Alpes|2019-06|2019|6|electric_kwh|NA|EUR
+1009|Grand Est|2019-01|2019|1|diesel|€1.39|EUR
+510|Occitanie|2021-02|2021|2|electric_kwh|NA|€
+216|Auvergne-Rhône-Alpes|2020-12|2020|12|electric_kwh|0,050|EUR
+631|Nouvelle-Aquitaine|2020-07|2020|7|diesel|€1.30|€
+281|Auvergne-Rhône-Alpes|2022-10|2022|10|essence|1,430|EUR
+942|Pays de la Loire|2021-02|2021|2|electric_kwh|NA|€
+438|Occitanie|2019-02|2019|2|electric_kwh|0,355|€
+373|Provence-Alpes-Côte d'Azur|2021-05|2021|5|diesel|1.364|eur
+771|Hauts-de-France|2020-05|2020|5|electric_kwh|0.050|EUR
+18|Île-de-France|2019-06|2019|6|electric_kwh|0,170|€
+26|Île-de-France|2019-09|2019|9|essence|1.527|€
+355|Provence-Alpes-Côte d'Azur|2020-11|2020|11|diesel|1.442|eur
+812|Hauts-de-France|2021-07|2021|7|essence|NA|EUR
+679|Nouvelle-Aquitaine|2021-11|2021|11|diesel|1,341|€
+881|Pays de la Loire|2019-06|2019|6|essence|1.404|€
+659|Nouvelle-Aquitaine|2021-04|2021|4|essence|1.394|€
+125|Île-de-France|2022-06|2022|6|essence|1,590|EUR
+759|Hauts-de-France|2020-01|2020|1|electric_kwh|0.159|€
+334|Provence-Alpes-Côte d'Azur|2020-04|2020|4|diesel|1.260|€
+1049|Grand Est|2020-02|2020|2|essence|1,585|eur
+271|Auvergne-Rhône-Alpes|2022-07|2022|7|diesel|1.281|EUR
+1139|Grand Est|2022-08|2022|8|essence|€1.48|€
+976|Pays de la Loire|2022-02|2022|2|diesel|1.424|eur
+964|Pays de la Loire|2021-10|2021|10|diesel|1,401|EUR
+359|Provence-Alpes-Côte d'Azur|2020-12|2020|12|essence|NA|€
+225|Auvergne-Rhône-Alpes|2021-03|2021|3|electric_kwh|0.268|EUR
+90|Île-de-France|2021-06|2021|6|electric_kwh|0,183|€
+545|Occitanie|2022-02|2022|2|essence|1.430|€
+980|Pays de la Loire|2022-03|2022|3|essence|€1.54|€
+304|Provence-Alpes-Côte d'Azur|2019-06|2019|6|diesel|1.504|eur
+432|Provence-Alpes-Côte d'Azur|2022-12|2022|12|electric_kwh|0,183|eur
+31|Île-de-France|2019-11|2019|11|diesel|1,367|€
+974|Pays de la Loire|2022-01|2022|1|essence|1.290|€
+412|Provence-Alpes-Côte d'Azur|2022-06|2022|6|diesel|€1.25|eur
+212|Auvergne-Rhône-Alpes|2020-11|2020|11|essence|1.550|eur
+860|Hauts-de-France|2022-11|2022|11|essence|€1.33|EUR
+158|Auvergne-Rhône-Alpes|2019-05|2019|5|essence|1,568|€
+1043|Grand Est|2019-12|2019|12|essence|1,492|EUR
+933|Pays de la Loire|2020-11|2020|11|electric_kwh|0.140|EUR
+695|Nouvelle-Aquitaine|2022-04|2022|4|essence|1.709|EUR
+1101|Grand Est|2021-07|2021|7|electric_kwh|0.211|eur
+237|Auvergne-Rhône-Alpes|2021-07|2021|7|electric_kwh|0,186|€
+586|Nouvelle-Aquitaine|2019-04|2019|4|diesel|€1.37|EUR
+436|Occitanie|2019-02|2019|2|diesel|€1.62|€
+71|Île-de-France|2020-12|2020|12|essence||EUR
+276|Auvergne-Rhône-Alpes|2022-08|2022|8|electric_kwh|0.088|€
+420|Provence-Alpes-Côte d'Azur|2022-08|2022|8|electric_kwh|0.106|eur
+248|Auvergne-Rhône-Alpes|2021-11|2021|11|essence|1.362|EUR
+875|Pays de la Loire|2019-04|2019|4|essence|1,552|€
+523|Occitanie|2021-07|2021|7|diesel|1.507|EUR
+893|Pays de la Loire|2019-10|2019|10|essence|1,373|eur
+430|Provence-Alpes-Côte d'Azur|2022-12|2022|12|diesel|1.227|€
+525|Occitanie|2021-07|2021|7|electric_kwh|NA|€
+696|Nouvelle-Aquitaine|2022-04|2022|4|electric_kwh|€0.17|eur
+962|Pays de la Loire|2021-09|2021|9|essence|1.266|€
+784|Hauts-de-France|2020-10|2020|10|diesel|1,325|EUR
+621|Nouvelle-Aquitaine|2020-03|2020|3|electric_kwh|0.104|€
+704|Nouvelle-Aquitaine|2022-07|2022|7|essence|1,549|eur
+203|Auvergne-Rhône-Alpes|2020-08|2020|8|essence|1.468|EUR
+793|Hauts-de-France|2021-01|2021|1|diesel|NA|€
+56|Île-de-France|2020-07|2020|7|essence|1.367|EUR
+254|Auvergne-Rhône-Alpes|2022-01|2022|1|essence|1,528|€
+761|Hauts-de-France|2020-02|2020|2|essence|1.450|€
+75|Île-de-France|2021-01|2021|1|electric_kwh|€0.18|€
+618|Nouvelle-Aquitaine|2020-02|2020|2|electric_kwh|0.225|€
+902|Pays de la Loire|2020-01|2020|1|essence|€1.37|€
+512|Occitanie|2021-03|2021|3|essence|€1.47|eur
+171|Auvergne-Rhône-Alpes|2019-09|2019|9|electric_kwh|€0.10|EUR
+938|Pays de la Loire|2021-01|2021|1|essence|€1.71|EUR
+899|Pays de la Loire|2019-12|2019|12|essence|1.468|EUR
+1026|Grand Est|2019-06|2019|6|electric_kwh||€
+839|Hauts-de-France|2022-04|2022|4|essence|1.452|eur
+731|Hauts-de-France|2019-04|2019|4|essence|1.415|eur
+380|Provence-Alpes-Côte d'Azur|2021-07|2021|7|essence|€1.58|EUR
+431|Provence-Alpes-Côte d'Azur|2022-12|2022|12|essence|1.311|eur
+841|Hauts-de-France|2022-05|2022|5|diesel|1.353|EUR
+288|Auvergne-Rhône-Alpes|2022-12|2022|12|electric_kwh|€0.26|EUR
+709|Nouvelle-Aquitaine|2022-09|2022|9|diesel|€1.21|eur
+632|Nouvelle-Aquitaine|2020-07|2020|7|essence|1.477|eur
+727|Hauts-de-France|2019-03|2019|3|diesel|1.357|eur
+576|Occitanie|2022-12|2022|12|electric_kwh|0,317|€
+642|Nouvelle-Aquitaine|2020-10|2020|10|electric_kwh|0,099|EUR
+594|Nouvelle-Aquitaine|2019-06|2019|6|electric_kwh|0.311|EUR
+1133|Grand Est|2022-06|2022|6|essence|1.468|eur
+322|Provence-Alpes-Côte d'Azur|2019-12|2019|12|diesel|1.463|eur
+581|Nouvelle-Aquitaine|2019-02|2019|2|essence|€1.49|eur
+464|Occitanie|2019-11|2019|11|essence|1,660|eur
+745|Hauts-de-France|2019-09|2019|9|diesel|NA|EUR
+708|Nouvelle-Aquitaine|2022-08|2022|8|electric_kwh|0,067|EUR
+593|Nouvelle-Aquitaine|2019-06|2019|6|essence|€1.46|eur
+126|Île-de-France|2022-06|2022|6|electric_kwh|0.122|€
+555|Occitanie|2022-05|2022|5|electric_kwh|0.143|€
+421|Provence-Alpes-Côte d'Azur|2022-09|2022|9|diesel|1.460|€
+767|Hauts-de-France|2020-04|2020|4|essence|€1.56|eur
+766|Hauts-de-France|2020-04|2020|4|diesel|1.291|€
+513|Occitanie|2021-03|2021|3|electric_kwh|0.260|eur
+988|Pays de la Loire|2022-06|2022|6|diesel|€1.32|EUR
+801|Hauts-de-France|2021-03|2021|3|electric_kwh|0.111|eur
+14|Île-de-France|2019-05|2019|5|essence|NA|€
+307|Provence-Alpes-Côte d'Azur|2019-07|2019|7|diesel|NA|eur
+788|Hauts-de-France|2020-11|2020|11|essence|1,330|EUR
+215|Auvergne-Rhône-Alpes|2020-12|2020|12|essence|1,432|EUR
+569|Occitanie|2022-10|2022|10|essence|1,582|eur
+78|Île-de-France|2021-02|2021|2|electric_kwh|€0.15|EUR
+780|Hauts-de-France|2020-08|2020|8|electric_kwh|0.196|€
+400|Provence-Alpes-Côte d'Azur|2022-02|2022|2|diesel|€1.54|EUR
+652|Nouvelle-Aquitaine|2021-02|2021|2|diesel|€1.38|€
+625|Nouvelle-Aquitaine|2020-05|2020|5|diesel|1.473|eur
+753|Hauts-de-France|2019-11|2019|11|electric_kwh|0,433|eur
+497|Occitanie|2020-10|2020|10|essence|NA|€
+646|Nouvelle-Aquitaine|2020-12|2020|12|diesel|1,505|eur
+918|Pays de la Loire|2020-06|2020|6|electric_kwh|€0.22|EUR
+405|Provence-Alpes-Côte d'Azur|2022-03|2022|3|electric_kwh|0.336|eur
+19|Île-de-France|2019-07|2019|7|diesel|€1.28|€
+509|Occitanie|2021-02|2021|2|essence|1.359|eur
+128|Île-de-France|2022-07|2022|7|essence|1,436|€
+311|Provence-Alpes-Côte d'Azur|2019-08|2019|8|essence|1,470|EUR
+802|Hauts-de-France|2021-04|2021|4|diesel|1,340|EUR
+12|Île-de-France|2019-04|2019|4|electric_kwh|0.186|eur
+474|Occitanie|2020-02|2020|2|electric_kwh|0.286|eur
+597|Nouvelle-Aquitaine|2019-07|2019|7|electric_kwh|0,050|eur
+527|Occitanie|2021-08|2021|8|essence|1,431|€
+466|Occitanie|2019-12|2019|12|diesel|1,559|eur
+744|Hauts-de-France|2019-08|2019|8|electric_kwh|0.168|eur
+1149|Grand Est|2022-11|2022|11|electric_kwh|0,186|eur
+941|Pays de la Loire|2021-02|2021|2|essence|€1.63|EUR
+972|Pays de la Loire|2021-12|2021|12|electric_kwh||EUR
+751|Hauts-de-France|2019-11|2019|11|diesel|1.208|eur
+1142|Grand Est|2022-09|2022|9|essence|1.478|EUR
+943|Pays de la Loire|2021-03|2021|3|diesel|1.154|EUR
+599|Nouvelle-Aquitaine|2019-08|2019|8|essence|€1.23|EUR
+37|Île-de-France|2020-01|2020|1|diesel|1,487|eur
+596|Nouvelle-Aquitaine|2019-07|2019|7|essence|1.351|eur
+617|Nouvelle-Aquitaine|2020-02|2020|2|essence|€1.50|€
+605|Nouvelle-Aquitaine|2019-10|2019|10|essence|1.356|EUR
+263|Auvergne-Rhône-Alpes|2022-04|2022|4|essence|1,458|eur
+291|Provence-Alpes-Côte d'Azur|2019-01|2019|1|electric_kwh|0.403|EUR
+386|Provence-Alpes-Côte d'Azur|2021-09|2021|9|essence|1.497|EUR
+255|Auvergne-Rhône-Alpes|2022-01|2022|1|electric_kwh|0,151|€
+920|Pays de la Loire|2020-07|2020|7|essence|1.271|€
+1029|Grand Est|2019-07|2019|7|electric_kwh|€0.09|EUR
+50|Île-de-France|2020-05|2020|5|essence|NA|EUR
+820|Hauts-de-France|2021-10|2021|10|diesel||€
+229|Auvergne-Rhône-Alpes|2021-05|2021|5|diesel|1,367|EUR
+240|Auvergne-Rhône-Alpes|2021-08|2021|8|electric_kwh|0.352|€
+341|Provence-Alpes-Côte d'Azur|2020-06|2020|6|essence|€1.48|EUR
+63|Île-de-France|2020-09|2020|9|electric_kwh|0,194|€
+896|Pays de la Loire|2019-11|2019|11|essence|1.596|EUR
+1132|Grand Est|2022-06|2022|6|diesel|1.496|eur
+742|Hauts-de-France|2019-08|2019|8|diesel|1,428|eur
+407|Provence-Alpes-Côte d'Azur|2022-04|2022|4|essence|1.320|eur
+1022|Grand Est|2019-05|2019|5|essence|NA|EUR
+79|Île-de-France|2021-03|2021|3|diesel|1.450|€
+1111|Grand Est|2021-11|2021|11|diesel|1.277|eur
+176|Auvergne-Rhône-Alpes|2019-11|2019|11|essence|1,518|eur
+194|Auvergne-Rhône-Alpes|2020-05|2020|5|essence|1.515|eur
+830|Hauts-de-France|2022-01|2022|1|essence|1.551|EUR
+354|Provence-Alpes-Côte d'Azur|2020-10|2020|10|electric_kwh|0.062|EUR
+249|Auvergne-Rhône-Alpes|2021-11|2021|11|electric_kwh|0,050|eur
+939|Pays de la Loire|2021-01|2021|1|electric_kwh||EUR
+442|Occitanie|2019-04|2019|4|diesel|1.389|€
+804|Hauts-de-France|2021-04|2021|4|electric_kwh|0.255|EUR
+190|Auvergne-Rhône-Alpes|2020-04|2020|4|diesel|1,311|€
+396|Provence-Alpes-Côte d'Azur|2021-12|2021|12|electric_kwh|NA|EUR
+494|Occitanie|2020-09|2020|9|essence|NA|EUR
+1095|Grand Est|2021-05|2021|5|electric_kwh|€0.25|€
+35|Île-de-France|2019-12|2019|12|essence|1.371|eur
+210|Auvergne-Rhône-Alpes|2020-10|2020|10|electric_kwh|0.280|€
+650|Nouvelle-Aquitaine|2021-01|2021|1|essence|1,294|eur
+629|Nouvelle-Aquitaine|2020-06|2020|6|essence|NA|eur
+308|Provence-Alpes-Côte d'Azur|2019-07|2019|7|essence|€1.40|eur
+1114|Grand Est|2021-12|2021|12|diesel|1.301|eur
+1066|Grand Est|2020-08|2020|8|diesel|NA|EUR
+437|Occitanie|2019-02|2019|2|essence|1.564|€
+274|Auvergne-Rhône-Alpes|2022-08|2022|8|diesel|€1.43|EUR
+338|Provence-Alpes-Côte d'Azur|2020-05|2020|5|essence|1.396|eur
+181|Auvergne-Rhône-Alpes|2020-01|2020|1|diesel|1.387|EUR
+137|Île-de-France|2022-10|2022|10|essence|€1.55|€
+290|Provence-Alpes-Côte d'Azur|2019-01|2019|1|essence|1.462|eur
+332|Provence-Alpes-Côte d'Azur|2020-03|2020|3|essence|1.420|EUR
+403|Provence-Alpes-Côte d'Azur|2022-03|2022|3|diesel|1.424|eur
+905|Pays de la Loire|2020-02|2020|2|essence|1.381|EUR
+278|Auvergne-Rhône-Alpes|2022-09|2022|9|essence|1.655|€
+346|Provence-Alpes-Côte d'Azur|2020-08|2020|8|diesel|NA|EUR
+967|Pays de la Loire|2021-11|2021|11|diesel|1,380|€
+539|Occitanie|2021-12|2021|12|essence|1.374|€
+950|Pays de la Loire|2021-05|2021|5|essence|€1.48|€
+789|Hauts-de-France|2020-11|2020|11|electric_kwh|0,152|EUR
+540|Occitanie|2021-12|2021|12|electric_kwh|0,327|€
+656|Nouvelle-Aquitaine|2021-03|2021|3|essence|1.510|€
+578|Nouvelle-Aquitaine|2019-01|2019|1|essence|€1.66|EUR
+915|Pays de la Loire|2020-05|2020|5|electric_kwh|€0.17|EUR
+463|Occitanie|2019-11|2019|11|diesel|1.399|EUR
+1135|Grand Est|2022-07|2022|7|diesel|1,398|eur
+43|Île-de-France|2020-03|2020|3|diesel|1.170|eur
+305|Provence-Alpes-Côte d'Azur|2019-06|2019|6|essence|€1.46|€
+488|Occitanie|2020-07|2020|7|essence|€1.67|€
+862|Hauts-de-France|2022-12|2022|12|diesel|1,441|€
+195|Auvergne-Rhône-Alpes|2020-05|2020|5|electric_kwh|0,197|eur
+1137|Grand Est|2022-07|2022|7|electric_kwh|€0.16|€
+1042|Grand Est|2019-12|2019|12|diesel|1.205|EUR
+300|Provence-Alpes-Côte d'Azur|2019-04|2019|4|electric_kwh|0.094|eur
+1128|Grand Est|2022-04|2022|4|electric_kwh|€0.22|€
+1019|Grand Est|2019-04|2019|4|essence|1.632|EUR
+781|Hauts-de-France|2020-09|2020|9|diesel|1,352|eur
+121|Île-de-France|2022-05|2022|5|diesel|€1.42|€
+898|Pays de la Loire|2019-12|2019|12|diesel|1.586|EUR
+107|Île-de-France|2021-12|2021|12|essence|1,386|eur
+114|Île-de-France|2022-02|2022|2|electric_kwh|0.143|€
+480|Occitanie|2020-04|2020|4|electric_kwh|€0.14|€
+813|Hauts-de-France|2021-07|2021|7|electric_kwh|0,215|€
+583|Nouvelle-Aquitaine|2019-03|2019|3|diesel|1,317|€
+132|Île-de-France|2022-08|2022|8|electric_kwh|0.050|€
+612|Nouvelle-Aquitaine|2019-12|2019|12|electric_kwh|0.050|eur
+803|Hauts-de-France|2021-04|2021|4|essence|1,522|€
+1092|Grand Est|2021-04|2021|4|electric_kwh|0,121|EUR
+805|Hauts-de-France|2021-05|2021|5|diesel|1.371|€
+365|Provence-Alpes-Côte d'Azur|2021-02|2021|2|essence|1,528|EUR
+670|Nouvelle-Aquitaine|2021-08|2021|8|diesel|1.259|EUR
+572|Occitanie|2022-11|2022|11|essence|1.375|EUR
+468|Occitanie|2019-12|2019|12|electric_kwh|0.194|eur
+635|Nouvelle-Aquitaine|2020-08|2020|8|essence|1.426|eur
+694|Nouvelle-Aquitaine|2022-04|2022|4|diesel|1,372|€
+1021|Grand Est|2019-05|2019|5|diesel|€1.38|EUR
+662|Nouvelle-Aquitaine|2021-05|2021|5|essence|1,368|€
+91|Île-de-France|2021-07|2021|7|diesel|1,418|€
+863|Hauts-de-France|2022-12|2022|12|essence|1.451|eur
+775|Hauts-de-France|2020-07|2020|7|diesel|€1.23|€
+295|Provence-Alpes-Côte d'Azur|2019-03|2019|3|diesel|1,322|eur
+221|Auvergne-Rhône-Alpes|2021-02|2021|2|essence|1,402|€
+724|Hauts-de-France|2019-02|2019|2|diesel|1,361|EUR
+535|Occitanie|2021-11|2021|11|diesel|€1.29|€
+998|Pays de la Loire|2022-09|2022|9|essence|1.457|eur
+289|Provence-Alpes-Côte d'Azur|2019-01|2019|1|diesel|1.381|€
+568|Occitanie|2022-10|2022|10|diesel|NA|EUR
+182|Auvergne-Rhône-Alpes|2020-01|2020|1|essence|1,374|€
+926|Pays de la Loire|2020-09|2020|9|essence|1.565|€
+473|Occitanie|2020-02|2020|2|essence|€1.60|eur
+1082|Grand Est|2021-01|2021|1|essence|1,407|€
+579|Nouvelle-Aquitaine|2019-01|2019|1|electric_kwh|0.104|€
+54|Île-de-France|2020-06|2020|6|electric_kwh|€0.09|eur
+283|Auvergne-Rhône-Alpes|2022-11|2022|11|diesel|€1.46|eur
+858|Hauts-de-France|2022-10|2022|10|electric_kwh||€
+737|Hauts-de-France|2019-06|2019|6|essence|1.440|EUR
+429|Provence-Alpes-Côte d'Azur|2022-11|2022|11|electric_kwh|0.050|eur
+399|Provence-Alpes-Côte d'Azur|2022-01|2022|1|electric_kwh|€0.16|€
+446|Occitanie|2019-05|2019|5|essence|1.624|EUR
+852|Hauts-de-France|2022-08|2022|8|electric_kwh|0.050|eur
+51|Île-de-France|2020-05|2020|5|electric_kwh||EUR
+382|Provence-Alpes-Côte d'Azur|2021-08|2021|8|diesel|€1.37|EUR
+9|Île-de-France|2019-03|2019|3|electric_kwh|NA|EUR
+1112|Grand Est|2021-11|2021|11|essence|1.517|EUR
+296|Provence-Alpes-Côte d'Azur|2019-03|2019|3|essence|1.553|EUR
+84|Île-de-France|2021-04|2021|4|electric_kwh|€0.36|EUR
+944|Pays de la Loire|2021-03|2021|3|essence|1,398|€
+961|Pays de la Loire|2021-09|2021|9|diesel|€1.32|€
+754|Hauts-de-France|2019-12|2019|12|diesel|1.327|eur
+1061|Grand Est|2020-06|2020|6|essence|1.475|€
+585|Nouvelle-Aquitaine|2019-03|2019|3|electric_kwh|0,158|eur
+1145|Grand Est|2022-10|2022|10|essence|NA|eur
+1117|Grand Est|2022-01|2022|1|diesel|€1.39|EUR
+602|Nouvelle-Aquitaine|2019-09|2019|9|essence|€1.30|EUR
