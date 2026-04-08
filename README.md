@@ -22,3 +22,8 @@ L'analyse s'articule autour de trois grands axes :
 *   **Microsoft Power BI :** Visualisation, modélisation des données et création du tableau de bord.
 *   **DAX (Data Analysis Expressions) :** Langage de formule pour les calculs avancés.
 *   **Git / GitHub :** Contrôle de version, documentation et déploiement du projet.
+
+*   ## 🌍 Alignement SDG (Objectifs de Développement Durable)
+Ce tableau de bord s'aligne directement avec les objectifs de l'ONU, notamment :
+*   **ODD 11 (Villes et communautés durables) :** Mesuré via nos KPIs de **Sécurité Urbaine** (Total Accidents, Score de Danger) et de **Performance** (Taux d'utilisation des transports en commun pour réduire la voiture individuelle). L'objectif est de rendre les villes plus sûres et durables.
+*   **ODD 13 (Mesures relatives à la lutte contre les changements climatiques) :** Mesuré via nos KPIs d'**Empreinte Environnementale** (Évolution CO2 YoY et AQI). Ces indicateurs permettent de suivre et de cibler les réductions d'émissions de gaz à effet de serre.
